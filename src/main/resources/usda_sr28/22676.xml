@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="22676" name="MARQUEZ PRIMERA Shredded Beef, Green Chili &amp; Monterey Jack Cheese Burrito, frozen" ccf="4.0">
+<measure amount="1.0" grams="142.0" name="package yields"/>
+<measure amount="1.0" grams="142.0" name="serving"/>
+<nutrient amount="228.0" name="Energy"/>
+<nutrient amount="10.5" name="Protein"/>
+<nutrient amount="28.1" name="Carbs"/>
+<nutrient amount="8.2" name="Fat"/>
+<nutrient amount="50.8" name="Water"/>
+<nutrient amount="2.4" name="Ash"/>
+<nutrient amount="88.0" name="Calcium"/>
+<nutrient amount="2.01" name="Iron"/>
+<nutrient amount="541.0" name="Sodium"/>
+<nutrient amount="2.65" name="Saturated"/>
+<nutrient amount="2.4" name="Monounsaturated"/>
+<nutrient amount="1.88" name="Polyunsaturated"/>
+<nutrient amount="19.0" name="Cholesterol"/>
+</food>

@@ -1,0 +1,15 @@
+<food fcf="9.0" pcf="4.0" uid="18643" name="QUAKER OATS, AUNT JEMIMA Original Waffles, frozen" ccf="4.0">
+<measure amount="1.0" grams="72.0" name="serving"/>
+<nutrient amount="273.0" name="Energy"/>
+<nutrient amount="7.1" name="Protein"/>
+<nutrient amount="42.3" name="Carbs"/>
+<nutrient amount="8.4" name="Fat"/>
+<nutrient amount="39.5" name="Water"/>
+<nutrient amount="2.7" name="Ash"/>
+<nutrient amount="7.23" name="Iron"/>
+<nutrient amount="782.0" name="Sodium"/>
+<nutrient amount="2.19" name="Saturated"/>
+<nutrient amount="0.124" name="Omega-3"/>
+<nutrient amount="2.024" name="Omega-6"/>
+<nutrient amount="16.0" name="Cholesterol"/>
+</food>

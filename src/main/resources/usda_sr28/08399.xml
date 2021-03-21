@@ -1,0 +1,30 @@
+<food fcf="9.0" pcf="4.0" uid="08399" name="Cereals ready-to-eat, GENERAL MILLS, TOTAL Brown Sugar and Oat" ccf="4.0">
+<measure amount="0.75" grams="30.0" name="cup"/>
+<nutrient amount="339.0" name="Energy"/>
+<nutrient amount="6.4" name="Protein"/>
+<nutrient amount="76.3" name="Carbs"/>
+<nutrient amount="4.0" name="Fiber"/>
+<nutrient amount="31.0" name="Sugars"/>
+<nutrient amount="2.3" name="Fat"/>
+<nutrient amount="2.5" name="Water"/>
+<nutrient amount="11.9" name="Ash"/>
+<nutrient amount="3333.0" name="Calcium"/>
+<nutrient amount="0.133" name="Copper"/>
+<nutrient amount="60.0" name="Iron"/>
+<nutrient amount="53.0" name="Magnesium"/>
+<nutrient amount="200.0" name="Phosphorus"/>
+<nutrient amount="223.0" name="Potassium"/>
+<nutrient amount="636.0" name="Sodium"/>
+<nutrient amount="50.0" name="Zinc"/>
+<nutrient amount="1667.0" name="Vitamin A"/>
+<nutrient amount="1333.0" name="Folate"/>
+<nutrient amount="5.0" name="B1 (Thiamine)"/>
+<nutrient amount="5.67" name="B2 (Riboflavin)"/>
+<nutrient amount="66.7" name="B3 (Niacin)"/>
+<nutrient amount="33.3" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="6.67" name="B6 (Pyridoxine)"/>
+<nutrient amount="20.0" name="B12 (Cyanocobalamin)"/>
+<nutrient amount="200.0" name="Vitamin C"/>
+<nutrient amount="133.0" name="Vitamin D"/>
+<nutrient amount="0.5" name="Saturated"/>
+</food>

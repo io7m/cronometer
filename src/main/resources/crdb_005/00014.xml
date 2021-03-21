@@ -1,0 +1,41 @@
+<food name="SALSA, calorie-corrected">
+<comments>
+</comments>
+<measure amount="1.0" grams="259.0" name="cup"/>
+<measure amount="2.0" grams="33.0" name="tablespoon"/>
+<nutrient amount="30.3030303030303" name="Energy"/>
+<nutrient amount="1.54" name="Protein"/>
+<nutrient amount="6.26" name="Carbs"/>
+<nutrient amount="0.16" name="Fat"/>
+<nutrient amount="89.88" name="Water"/>
+<nutrient amount="1.6" name="Fiber"/>
+<nutrient amount="1.59" name="Starch"/>
+<nutrient amount="2.17" name="Ash"/>
+<nutrient amount="27.0" name="Calcium"/>
+<nutrient amount="0.132" name="Copper"/>
+<nutrient amount="0.46" name="Iron"/>
+<nutrient amount="15.0" name="Magnesium"/>
+<nutrient amount="0.121" name="Manganese"/>
+<nutrient amount="31.0" name="Phosphorus"/>
+<nutrient amount="297.0" name="Potassium"/>
+<nutrient amount="0.9" name="Selenium"/>
+<nutrient amount="600.0" name="Sodium"/>
+<nutrient amount="0.37" name="Zinc"/>
+<nutrient amount="292.0" name="Vitamin A"/>
+<nutrient amount="175.0" name="Beta-carotene"/>
+<nutrient amount="10515.0" name="Lycopene"/>
+<nutrient amount="4.0" name="Folate"/>
+<nutrient amount="0.022" name="B1 (Thiamine)"/>
+<nutrient amount="0.032" name="B2 (Riboflavin)"/>
+<nutrient amount="0.075" name="B3 (Niacin)"/>
+<nutrient amount="0.0070" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.175" name="B6 (Pyridoxine)"/>
+<nutrient amount="1.9" name="Vitamin C"/>
+<nutrient amount="1.18" name="Vitamin E"/>
+<nutrient amount="4.5" name="Vitamin K"/>
+<nutrient amount="0.03" name="Saturated"/>
+<nutrient amount="0.025" name="Monounsaturated"/>
+<nutrient amount="0.115" name="Polyunsaturated"/>
+<nutrient amount="0.0050" name="Omega-3"/>
+<nutrient amount="0.109" name="Omega-6"/>
+</food>

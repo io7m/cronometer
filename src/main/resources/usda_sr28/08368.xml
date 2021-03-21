@@ -1,0 +1,26 @@
+<food fcf="9.0" pcf="4.0" uid="08368" name="Cereals ready-to-eat, GENERAL MILLS, PARA SU FAMILIA Cinnamon Corn Stars" ccf="4.0">
+<nutrient amount="386.0" name="Energy"/>
+<nutrient amount="5.0" name="Protein"/>
+<nutrient amount="87.0" name="Carbs"/>
+<nutrient amount="1.0" name="Fiber"/>
+<nutrient amount="21.0" name="Sugars"/>
+<nutrient amount="2.9" name="Fat"/>
+<nutrient amount="2.16" name="Water"/>
+<nutrient amount="3.2" name="Ash"/>
+<nutrient amount="333.0" name="Calcium"/>
+<nutrient amount="27.0" name="Iron"/>
+<nutrient amount="67.0" name="Phosphorus"/>
+<nutrient amount="84.0" name="Potassium"/>
+<nutrient amount="792.0" name="Sodium"/>
+<nutrient amount="12.5" name="Zinc"/>
+<nutrient amount="1667.0" name="Vitamin A"/>
+<nutrient amount="667.0" name="Folate"/>
+<nutrient amount="1.25" name="B1 (Thiamine)"/>
+<nutrient amount="1.42" name="B2 (Riboflavin)"/>
+<nutrient amount="16.7" name="B3 (Niacin)"/>
+<nutrient amount="1.67" name="B6 (Pyridoxine)"/>
+<nutrient amount="5.0" name="B12 (Cyanocobalamin)"/>
+<nutrient amount="20.0" name="Vitamin C"/>
+<nutrient amount="133.0" name="Vitamin D"/>
+<nutrient amount="0.5" name="Saturated"/>
+</food>

@@ -1,0 +1,19 @@
+<food fcf="9.0" pcf="4.0" uid="22685" name="MARIE CALLENDER'S Escalloped Noodles &amp; Chicken, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="232.0" name="cup"/>
+<measure amount="1.0" grams="368.0" name="package yields"/>
+<measure amount="1.0" grams="171.0" name="serving"/>
+<nutrient amount="171.0" name="Energy"/>
+<nutrient amount="5.6" name="Protein"/>
+<nutrient amount="16.53" name="Carbs"/>
+<nutrient amount="2.6" name="Sugars"/>
+<nutrient amount="9.14" name="Fat"/>
+<nutrient amount="67.3" name="Water"/>
+<nutrient amount="1.43" name="Ash"/>
+<nutrient amount="45.0" name="Calcium"/>
+<nutrient amount="0.85" name="Iron"/>
+<nutrient amount="434.0" name="Sodium"/>
+<nutrient amount="529.0" name="Vitamin A"/>
+<nutrient amount="3.13" name="Saturated"/>
+<nutrient amount="2.72" name="Monounsaturated"/>
+<nutrient amount="3.28" name="Polyunsaturated"/>
+</food>

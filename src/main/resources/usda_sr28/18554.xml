@@ -1,0 +1,22 @@
+<food fcf="9.0" pcf="4.0" uid="18554" name="ARCHWAY Home Style Cookies, Fat Free Lemon Nuggets" ccf="4.0">
+<measure amount="1.0" grams="32.0" name="serving"/>
+<nutrient amount="358.0" name="Energy"/>
+<nutrient amount="4.22" name="Protein"/>
+<nutrient amount="84.14" name="Carbs"/>
+<nutrient amount="1.1" name="Fiber"/>
+<nutrient amount="46.32" name="Sugars"/>
+<nutrient amount="0.71" name="Fat"/>
+<nutrient amount="9.49" name="Water"/>
+<nutrient amount="1.44" name="Ash"/>
+<nutrient amount="14.0" name="Calcium"/>
+<nutrient amount="2.13" name="Iron"/>
+<nutrient amount="63.0" name="Potassium"/>
+<nutrient amount="365.0" name="Sodium"/>
+<nutrient amount="72.0" name="Folate"/>
+<nutrient amount="0.3" name="B1 (Thiamine)"/>
+<nutrient amount="0.19" name="B2 (Riboflavin)"/>
+<nutrient amount="2.4" name="B3 (Niacin)"/>
+<nutrient amount="0.19" name="Saturated"/>
+<nutrient amount="0.21" name="Monounsaturated"/>
+<nutrient amount="0.31" name="Polyunsaturated"/>
+</food>

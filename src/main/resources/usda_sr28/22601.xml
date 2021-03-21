@@ -1,0 +1,14 @@
+<food fcf="9.0" pcf="4.0" uid="22601" name="HANOVER, STIR FRY 2, White Rice and Vegetables with Oriental Soy Sauce, frozen" ccf="4.0">
+<measure amount="1.0" grams="137.0" name="cup"/>
+<measure amount="1.0" grams="493.0" name="package"/>
+<measure amount="1.0" grams="137.0" name="serving"/>
+<nutrient amount="95.0" name="Energy"/>
+<nutrient amount="3.3" name="Protein"/>
+<nutrient amount="19.7" name="Carbs"/>
+<nutrient amount="1.8" name="Fiber"/>
+<nutrient amount="0.3" name="Fat"/>
+<nutrient amount="75.0" name="Water"/>
+<nutrient amount="1.7" name="Ash"/>
+<nutrient amount="464.0" name="Sodium"/>
+<nutrient amount="11.9" name="Vitamin C"/>
+</food>

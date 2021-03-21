@@ -1,0 +1,19 @@
+<food fcf="9.0" pcf="4.0" uid="22619" name="HEALTHY CHOICE Country Roast Turkey with Mushrooms in Brown Gravy with Rice Pilaf, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="240.0" name="package yields"/>
+<measure amount="1.0" grams="240.0" name="serving"/>
+<nutrient amount="93.0" name="Energy"/>
+<nutrient amount="7.91" name="Protein"/>
+<nutrient amount="11.6" name="Carbs"/>
+<nutrient amount="1.3" name="Fiber"/>
+<nutrient amount="1.64" name="Fat"/>
+<nutrient amount="78.02" name="Water"/>
+<nutrient amount="0.83" name="Ash"/>
+<nutrient amount="9.0" name="Calcium"/>
+<nutrient amount="0.43" name="Iron"/>
+<nutrient amount="182.0" name="Sodium"/>
+<nutrient amount="360.0" name="Vitamin A"/>
+<nutrient amount="0.52" name="Saturated"/>
+<nutrient amount="0.75" name="Monounsaturated"/>
+<nutrient amount="0.37" name="Polyunsaturated"/>
+<nutrient amount="11.0" name="Cholesterol"/>
+</food>

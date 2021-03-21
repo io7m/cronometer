@@ -1,0 +1,20 @@
+<food fcf="9.0" pcf="4.0" uid="22599" name="MARIE CALLENDER'S Turkey with Gravy &amp; Dressing with Broccoli, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="397.0" name="package yields"/>
+<measure amount="1.0" grams="397.0" name="serving"/>
+<nutrient amount="127.0" name="Energy"/>
+<nutrient amount="7.82" name="Protein"/>
+<nutrient amount="13.06" name="Carbs"/>
+<nutrient amount="2.8" name="Sugars"/>
+<nutrient amount="4.79" name="Fat"/>
+<nutrient amount="72.57" name="Water"/>
+<nutrient amount="1.76" name="Ash"/>
+<nutrient amount="33.0" name="Calcium"/>
+<nutrient amount="1.1" name="Iron"/>
+<nutrient amount="513.0" name="Sodium"/>
+<nutrient amount="100.0" name="Vitamin A"/>
+<nutrient amount="6.0" name="Vitamin C"/>
+<nutrient amount="2.29" name="Saturated"/>
+<nutrient amount="2.06" name="Monounsaturated"/>
+<nutrient amount="0.44" name="Polyunsaturated"/>
+<nutrient amount="20.0" name="Cholesterol"/>
+</food>

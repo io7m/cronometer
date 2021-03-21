@@ -1,0 +1,21 @@
+<food fcf="9.0" pcf="4.0" uid="22709" name="HEALTHY CHOICE Traditional Meat Loaf with Tomato Sauce, Parsleyed Potatoes, Vegetable Blend in Butter Sauce, and Apple Praline Crisp, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="340.0" name="package yields"/>
+<measure amount="1.0" grams="340.0" name="serving"/>
+<nutrient amount="93.0" name="Energy"/>
+<nutrient amount="4.51" name="Protein"/>
+<nutrient amount="15.4" name="Carbs"/>
+<nutrient amount="1.8" name="Fiber"/>
+<nutrient amount="5.0" name="Sugars"/>
+<nutrient amount="1.47" name="Fat"/>
+<nutrient amount="77.81" name="Water"/>
+<nutrient amount="0.81" name="Ash"/>
+<nutrient amount="14.0" name="Calcium"/>
+<nutrient amount="0.66" name="Iron"/>
+<nutrient amount="135.0" name="Sodium"/>
+<nutrient amount="219.0" name="Vitamin A"/>
+<nutrient amount="16.3" name="Vitamin C"/>
+<nutrient amount="0.74" name="Saturated"/>
+<nutrient amount="0.56" name="Monounsaturated"/>
+<nutrient amount="0.18" name="Polyunsaturated"/>
+<nutrient amount="11.0" name="Cholesterol"/>
+</food>

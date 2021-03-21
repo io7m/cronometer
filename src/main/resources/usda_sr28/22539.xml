@@ -1,0 +1,18 @@
+<food fcf="9.0" pcf="4.0" uid="22539" name="MRS PATERSON'S AUSSIE PIE, Hand Held Chicken Pie, frozen" ccf="4.0">
+<measure amount="1.0" grams="156.0" name="package yields"/>
+<measure amount="1.0" grams="156.0" name="serving"/>
+<nutrient amount="278.0" name="Energy"/>
+<nutrient amount="9.4" name="Protein"/>
+<nutrient amount="25.5" name="Carbs"/>
+<nutrient amount="15.4" name="Fat"/>
+<nutrient amount="48.1" name="Water"/>
+<nutrient amount="1.6" name="Ash"/>
+<nutrient amount="1.93" name="Iron"/>
+<nutrient amount="512.0" name="Sodium"/>
+<nutrient amount="233.0" name="Vitamin A"/>
+<nutrient amount="140.0" name="Beta-carotene"/>
+<nutrient amount="4.6" name="Saturated"/>
+<nutrient amount="5.32" name="Monounsaturated"/>
+<nutrient amount="2.74" name="Polyunsaturated"/>
+<nutrient amount="31.0" name="Cholesterol"/>
+</food>

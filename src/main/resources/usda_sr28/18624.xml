@@ -1,0 +1,25 @@
+<food fcf="9.0" pcf="4.0" uid="18624" name="NABISCO, NABISCO WHEAT THINS Crackers, baked" ccf="4.0">
+<measure amount="1.0" grams="29.0" name="serving"/>
+<nutrient amount="470.0" name="Energy"/>
+<nutrient amount="8.3" name="Protein"/>
+<nutrient amount="69.1" name="Carbs"/>
+<nutrient amount="3.0" name="Fiber"/>
+<nutrient amount="9.0" name="Sugars"/>
+<nutrient amount="20.0" name="Fat"/>
+<nutrient amount="2.5" name="Water"/>
+<nutrient amount="2.3" name="Ash"/>
+<nutrient amount="80.0" name="Calcium"/>
+<nutrient amount="3.7" name="Iron"/>
+<nutrient amount="52.0" name="Magnesium"/>
+<nutrient amount="208.0" name="Phosphorus"/>
+<nutrient amount="194.0" name="Potassium"/>
+<nutrient amount="578.0" name="Sodium"/>
+<nutrient amount="42.0" name="Folate"/>
+<nutrient amount="0.3" name="B1 (Thiamine)"/>
+<nutrient amount="0.3" name="B2 (Riboflavin)"/>
+<nutrient amount="4.0" name="B3 (Niacin)"/>
+<nutrient amount="0.087" name="B6 (Pyridoxine)"/>
+<nutrient amount="3.19" name="Saturated"/>
+<nutrient amount="7.0" name="Monounsaturated"/>
+<nutrient amount="1.24" name="Polyunsaturated"/>
+</food>

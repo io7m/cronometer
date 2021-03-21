@@ -1,0 +1,4 @@
+<food fcf="9.0" pcf="4.0" name="Shirataki Noodles" ccf="4.0"><comments>Alleged to be from &quot;Standard Tables of Food Composition in Japan ,&quot; 2002 edition, entry for &quot;Konjac, Noodle Shaped&quot; :
+http://www.shakespeare-w.com/english/konnyaku/nutrition_cal.html
+
+... except that this source indicates 6 Cal/100 g; this was revised to allow for likely fermentation of the remaining carb.</comments><measure amount="1.0" grams="360.0" name="Bag"/><nutrient amount="9.0" name="Energy"/><nutrient amount="0.2" name="Protein"/><nutrient amount="3.0" name="Carbs"/><nutrient amount="3.0" name="Fiber"/><nutrient amount="0.0" name="Fat"/><nutrient amount="75.0" name="Calcium"/><nutrient amount="0.6" name="Iron"/><nutrient amount="10.0" name="Phosphorus"/><nutrient amount="22.0" name="Potassium"/><nutrient amount="10.0" name="Sodium"/></food>

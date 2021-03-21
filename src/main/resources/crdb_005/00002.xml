@@ -1,0 +1,26 @@
+<food  name="AOR Essential Mix">
+  <measure  name="Scoop" amount="1.0" grams="12.3" />
+  <nutrient  name="Energy" amount="325.203" />
+  <nutrient  name="Calcium" amount="4390.243902439024" />
+  <nutrient  name="Copper" amount="8.130081300813007" />
+  <nutrient  name="Magnesium" amount="1707.3170731707316" />
+  <nutrient  name="Manganese" amount="18.699186991869915" />
+  <nutrient  name="Potassium" amount="804.8780487804877" />
+  <nutrient  name="Selenium" amount="1626.0162601626014" />
+  <nutrient  name="Zinc" amount="89.43089430894308" />
+  <nutrient  name="Retinol" amount="1219.5121951219512" />
+  <nutrient  name="Beta-carotene" amount="48.78048780487804" />
+  <nutrient  name="B1 (Thiamine)" amount="97.56097560975608" />
+  <nutrient  name="B2 (Riboflavin)" amount="105.69105691056909" />
+  <nutrient  name="B3 (Niacin)" amount="406.50406504065035" />
+  <nutrient  name="B5 (Pantothenic Acid)" amount="813.0081300813007" />
+  <nutrient  name="B6 (Pyridoxine)" amount="138.21138211382112" />
+  <nutrient  name="B12 (Cyanocobalamin)" amount="195.12195121951217" />
+  <nutrient  name="Vitamin C" amount="3658.536585365853" />
+  <nutrient  name="Vitamin D" amount="203.25203252032517" />
+  <nutrient  name="Vitamin E" amount="813.0081300813007" />
+  <nutrient  name="Beta Tocopherol" amount="12.19512195121951" />
+  <nutrient  name="Delta Tocopherol" amount="178.86178861788616" />
+  <nutrient  name="Gamma Tocopherol" amount="422.76422764227635" />
+  <nutrient  name="Folate" amount="6504.0650406504055" />
+</food>

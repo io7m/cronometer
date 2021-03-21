@@ -1,0 +1,16 @@
+<food fcf="9.0" pcf="4.0" uid="18613" name="MARTHA WHITE FOODS, MARTHA WHITE'S Artificial Blueberry Muffin Mix" ccf="4.0">
+<measure amount="1.0" grams="40.0" name="serving"/>
+<nutrient amount="404.0" name="Energy"/>
+<nutrient amount="5.1" name="Protein"/>
+<nutrient amount="76.1" name="Carbs"/>
+<nutrient amount="32.0" name="Sugars"/>
+<nutrient amount="8.8" name="Fat"/>
+<nutrient amount="6.7" name="Water"/>
+<nutrient amount="3.3" name="Ash"/>
+<nutrient amount="858.0" name="Sodium"/>
+<nutrient amount="2.141" name="Saturated"/>
+<nutrient amount="4.298" name="Monounsaturated"/>
+<nutrient amount="1.043" name="Polyunsaturated"/>
+<nutrient amount="0.038" name="Omega-3"/>
+<nutrient amount="1.0" name="Omega-6"/>
+</food>

@@ -1,0 +1,20 @@
+<food fcf="9.0" pcf="4.0" uid="22673" name="THE BUDGET GOURMET Italian Sausage Lasagna, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="298.0" name="package yields"/>
+<measure amount="1.0" grams="298.0" name="serving"/>
+<nutrient amount="153.0" name="Energy"/>
+<nutrient amount="6.9" name="Protein"/>
+<nutrient amount="13.4" name="Carbs"/>
+<nutrient amount="1.0" name="Fiber"/>
+<nutrient amount="8.0" name="Fat"/>
+<nutrient amount="70.3" name="Water"/>
+<nutrient amount="1.4" name="Ash"/>
+<nutrient amount="106.0" name="Calcium"/>
+<nutrient amount="0.9" name="Iron"/>
+<nutrient amount="303.0" name="Sodium"/>
+<nutrient amount="725.0" name="Vitamin A"/>
+<nutrient amount="380.0" name="Beta-carotene"/>
+<nutrient amount="2.74" name="Saturated"/>
+<nutrient amount="3.28" name="Monounsaturated"/>
+<nutrient amount="0.67" name="Polyunsaturated"/>
+<nutrient amount="16.0" name="Cholesterol"/>
+</food>

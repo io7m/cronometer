@@ -1,0 +1,22 @@
+<food fcf="9.0" pcf="4.0" uid="22602" name="STOUFFER'S, Creamed Spinach, frozen" ccf="4.0">
+<measure amount="1.0" grams="250.0" name="cup"/>
+<measure amount="1.0" grams="250.0" name="package"/>
+<measure amount="1.0" grams="125.0" name="serving"/>
+<nutrient amount="135.0" name="Energy"/>
+<nutrient amount="2.8" name="Protein"/>
+<nutrient amount="7.2" name="Carbs"/>
+<nutrient amount="1.8" name="Fiber"/>
+<nutrient amount="10.5" name="Fat"/>
+<nutrient amount="77.8" name="Water"/>
+<nutrient amount="1.7" name="Ash"/>
+<nutrient amount="113.0" name="Calcium"/>
+<nutrient amount="268.0" name="Sodium"/>
+<nutrient amount="3651.0" name="Vitamin A"/>
+<nutrient amount="2190.0" name="Beta-carotene"/>
+<nutrient amount="2.96" name="Saturated"/>
+<nutrient amount="2.268" name="Monounsaturated"/>
+<nutrient amount="3.592" name="Polyunsaturated"/>
+<nutrient amount="0.531" name="Omega-3"/>
+<nutrient amount="3.057" name="Omega-6"/>
+<nutrient amount="13.0" name="Cholesterol"/>
+</food>

@@ -1,0 +1,18 @@
+<food fcf="9.0" pcf="4.0" uid="22581" name="STOUFFER'S LEAN CUISINE Chicken a l'Orange in Sauce with Broccoli and Rice, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="255.0" name="package yields"/>
+<measure amount="1.0" grams="255.0" name="serving"/>
+<nutrient amount="105.0" name="Energy"/>
+<nutrient amount="9.6" name="Protein"/>
+<nutrient amount="15.1" name="Carbs"/>
+<nutrient amount="0.7" name="Fat"/>
+<nutrient amount="73.9" name="Water"/>
+<nutrient amount="0.7" name="Ash"/>
+<nutrient amount="141.0" name="Sodium"/>
+<nutrient amount="600.0" name="Vitamin A"/>
+<nutrient amount="360.0" name="Beta-carotene"/>
+<nutrient amount="7.1" name="Vitamin C"/>
+<nutrient amount="0.164" name="Saturated"/>
+<nutrient amount="0.197" name="Monounsaturated"/>
+<nutrient amount="0.162" name="Polyunsaturated"/>
+<nutrient amount="18.0" name="Cholesterol"/>
+</food>

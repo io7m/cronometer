@@ -1,0 +1,20 @@
+<food fcf="9.0" pcf="4.0" uid="22680" name="WEIGHT WATCHERS Macaroni &amp; Beef in Tomato Sauce, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="269.0" name="package yields"/>
+<measure amount="1.0" grams="269.0" name="serving"/>
+<nutrient amount="105.0" name="Energy"/>
+<nutrient amount="5.8" name="Protein"/>
+<nutrient amount="16.6" name="Carbs"/>
+<nutrient amount="2.5" name="Fiber"/>
+<nutrient amount="1.7" name="Fat"/>
+<nutrient amount="74.9" name="Water"/>
+<nutrient amount="1.0" name="Ash"/>
+<nutrient amount="2.11" name="Iron"/>
+<nutrient amount="183.0" name="Sodium"/>
+<nutrient amount="367.0" name="Vitamin A"/>
+<nutrient amount="220.0" name="Beta-carotene"/>
+<nutrient amount="10.2" name="Vitamin C"/>
+<nutrient amount="0.588" name="Saturated"/>
+<nutrient amount="0.657" name="Monounsaturated"/>
+<nutrient amount="0.225" name="Polyunsaturated"/>
+<nutrient amount="5.0" name="Cholesterol"/>
+</food>

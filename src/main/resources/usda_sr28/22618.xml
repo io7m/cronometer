@@ -1,0 +1,16 @@
+<food fcf="9.0" pcf="4.0" uid="22618" name="WEIGHT WATCHERS ULTIMATE 200 Barbecue Glazed Chicken and Sauce with Mixed Vegetables, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="209.0" name="package yields"/>
+<measure amount="1.0" grams="209.0" name="serving"/>
+<nutrient amount="104.0" name="Energy"/>
+<nutrient amount="9.0" name="Protein"/>
+<nutrient amount="12.4" name="Carbs"/>
+<nutrient amount="2.1" name="Fat"/>
+<nutrient amount="76.5" name="Water"/>
+<nutrient amount="0.52" name="Iron"/>
+<nutrient amount="194.0" name="Sodium"/>
+<nutrient amount="10.3" name="Vitamin C"/>
+<nutrient amount="0.476" name="Saturated"/>
+<nutrient amount="0.746" name="Monounsaturated"/>
+<nutrient amount="0.526" name="Polyunsaturated"/>
+<nutrient amount="23.0" name="Cholesterol"/>
+</food>

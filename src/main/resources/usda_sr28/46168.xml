@@ -1,0 +1,5 @@
+<food fcf="9.0" pcf="4.0" uid="46168" name="Polydextrose" ccf="1.0">
+<nutrient amount="100.0" name="Energy"/>
+<nutrient amount="96.0" name="Carbs"/>
+<nutrient amount="4.0" name="Water"/>
+</food>

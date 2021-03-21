@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18518" name="ARCHWAY Home Style Cookies, Aunt Bea's Pound Cake Cookie" ccf="4.0">
+<measure amount="1.0" grams="26.0" name="serving"/>
+<nutrient amount="402.0" name="Energy"/>
+<nutrient amount="5.17" name="Protein"/>
+<nutrient amount="60.66" name="Carbs"/>
+<nutrient amount="1.0" name="Fiber"/>
+<nutrient amount="32.12" name="Sugars"/>
+<nutrient amount="15.64" name="Fat"/>
+<nutrient amount="16.99" name="Water"/>
+<nutrient amount="1.53" name="Ash"/>
+<nutrient amount="37.0" name="Calcium"/>
+<nutrient amount="2.06" name="Iron"/>
+<nutrient amount="81.0" name="Potassium"/>
+<nutrient amount="319.0" name="Sodium"/>
+<nutrient amount="86.0" name="Vitamin A"/>
+<nutrient amount="0.25" name="B1 (Thiamine)"/>
+<nutrient amount="0.24" name="B2 (Riboflavin)"/>
+<nutrient amount="1.94" name="B3 (Niacin)"/>
+<nutrient amount="3.85" name="Saturated"/>
+<nutrient amount="5.87" name="Monounsaturated"/>
+<nutrient amount="1.17" name="Polyunsaturated"/>
+<nutrient amount="57.0" name="Cholesterol"/>
+</food>

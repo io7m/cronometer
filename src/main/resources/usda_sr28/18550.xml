@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18550" name="ARCHWAY Home Style Cookies, Gourmet Carrot Cake" ccf="4.0">
+<measure amount="1.0" grams="28.0" name="serving"/>
+<nutrient amount="430.0" name="Energy"/>
+<nutrient amount="3.97" name="Protein"/>
+<nutrient amount="64.24" name="Carbs"/>
+<nutrient amount="1.9" name="Fiber"/>
+<nutrient amount="37.96" name="Sugars"/>
+<nutrient amount="17.84" name="Fat"/>
+<nutrient amount="11.19" name="Water"/>
+<nutrient amount="2.76" name="Ash"/>
+<nutrient amount="40.0" name="Calcium"/>
+<nutrient amount="2.56" name="Iron"/>
+<nutrient amount="40.0" name="Potassium"/>
+<nutrient amount="627.0" name="Sodium"/>
+<nutrient amount="896.0" name="Vitamin A"/>
+<nutrient amount="0.23" name="B1 (Thiamine)"/>
+<nutrient amount="0.16" name="B2 (Riboflavin)"/>
+<nutrient amount="1.46" name="B3 (Niacin)"/>
+<nutrient amount="5.26" name="Saturated"/>
+<nutrient amount="5.85" name="Monounsaturated"/>
+<nutrient amount="2.13" name="Polyunsaturated"/>
+<nutrient amount="16.0" name="Cholesterol"/>
+</food>

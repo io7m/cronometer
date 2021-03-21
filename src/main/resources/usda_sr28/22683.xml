@@ -1,0 +1,19 @@
+<food fcf="9.0" pcf="4.0" uid="22683" name="THE BUDGET GOURMET LIGHT &amp; HEALTHY Teriyaki Chicken Breast with Oriental Style Vegetables, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="311.0" name="package yields"/>
+<measure amount="1.0" grams="311.0" name="serving"/>
+<nutrient amount="102.0" name="Energy"/>
+<nutrient amount="6.0" name="Protein"/>
+<nutrient amount="16.8" name="Carbs"/>
+<nutrient amount="1.3" name="Fiber"/>
+<nutrient amount="1.2" name="Fat"/>
+<nutrient amount="75.2" name="Water"/>
+<nutrient amount="0.8" name="Ash"/>
+<nutrient amount="217.0" name="Sodium"/>
+<nutrient amount="283.0" name="Vitamin A"/>
+<nutrient amount="170.0" name="Beta-carotene"/>
+<nutrient amount="14.3" name="Vitamin C"/>
+<nutrient amount="0.199" name="Saturated"/>
+<nutrient amount="0.291" name="Monounsaturated"/>
+<nutrient amount="0.513" name="Polyunsaturated"/>
+<nutrient amount="8.0" name="Cholesterol"/>
+</food>

@@ -1,0 +1,21 @@
+<food fcf="9.0" pcf="4.0" uid="22586" name="PATIO Mexican Style Dinner with Tamales, Beef Enchiladas and Chili Sauce, Beans and Rice, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="376.0" name="package yields"/>
+<measure amount="1.0" grams="376.0" name="serving"/>
+<nutrient amount="135.0" name="Energy"/>
+<nutrient amount="3.7" name="Protein"/>
+<nutrient amount="18.2" name="Carbs"/>
+<nutrient amount="2.2" name="Fiber"/>
+<nutrient amount="5.3" name="Fat"/>
+<nutrient amount="71.0" name="Water"/>
+<nutrient amount="1.8" name="Ash"/>
+<nutrient amount="64.0" name="Calcium"/>
+<nutrient amount="0.76" name="Iron"/>
+<nutrient amount="482.0" name="Sodium"/>
+<nutrient amount="167.0" name="Vitamin A"/>
+<nutrient amount="100.0" name="Beta-carotene"/>
+<nutrient amount="1.3" name="Vitamin C"/>
+<nutrient amount="1.8" name="Saturated"/>
+<nutrient amount="2.05" name="Monounsaturated"/>
+<nutrient amount="0.72" name="Polyunsaturated"/>
+<nutrient amount="7.0" name="Cholesterol"/>
+</food>

@@ -1,0 +1,22 @@
+<food fcf="9.0" pcf="4.0" uid="22606" name="HEALTHY CHOICE Cacciatore Chicken, Pasta with Chicken Breast Pieces and Vegetables in Cacciatore Sauce, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="354.0" name="package yields"/>
+<measure amount="1.0" grams="354.0" name="serving"/>
+<nutrient amount="75.0" name="Energy"/>
+<nutrient amount="6.21" name="Protein"/>
+<nutrient amount="10.13" name="Carbs"/>
+<nutrient amount="1.4" name="Fiber"/>
+<nutrient amount="2.8" name="Sugars"/>
+<nutrient amount="1.12" name="Fat"/>
+<nutrient amount="81.58" name="Water"/>
+<nutrient amount="0.95" name="Ash"/>
+<nutrient amount="15.0" name="Calcium"/>
+<nutrient amount="0.63" name="Iron"/>
+<nutrient amount="72.0" name="Phosphorus"/>
+<nutrient amount="212.0" name="Potassium"/>
+<nutrient amount="156.0" name="Sodium"/>
+<nutrient amount="75.0" name="Vitamin A"/>
+<nutrient amount="0.28" name="Saturated"/>
+<nutrient amount="0.67" name="Monounsaturated"/>
+<nutrient amount="0.18" name="Polyunsaturated"/>
+<nutrient amount="9.0" name="Cholesterol"/>
+</food>

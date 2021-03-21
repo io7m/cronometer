@@ -1,0 +1,8 @@
+<food  name="Sorrento Fat Free Ricotta" >
+  <measure  name="Serving (1/4 C)" amount="1.0" grams="62.0" />
+  <nutrient  name="Energy" amount="72.58064516129032" />
+  <nutrient  name="Protein" amount="9.032258064516128" />
+  <nutrient  name="Carbs" amount="9.032258064516128" />
+  <nutrient  name="Sodium" amount="117.74193548387098" />
+  <nutrient  name="Cholesterol" amount="0.017741935483870968" />
+</food>

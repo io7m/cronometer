@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="22703" name="SWEET SUE Chicken &amp; Dumplings, canned" ccf="4.0">
+<measure amount="1.0" grams="681.0" name="package yields"/>
+<measure amount="1.0" grams="240.0" name="serving"/>
+<nutrient amount="91.0" name="Energy"/>
+<nutrient amount="6.3" name="Protein"/>
+<nutrient amount="9.5" name="Carbs"/>
+<nutrient amount="1.1" name="Fiber"/>
+<nutrient amount="3.1" name="Fat"/>
+<nutrient amount="79.9" name="Water"/>
+<nutrient amount="1.2" name="Ash"/>
+<nutrient amount="1.07" name="Iron"/>
+<nutrient amount="394.0" name="Sodium"/>
+<nutrient amount="0.748" name="Saturated"/>
+<nutrient amount="1.23" name="Monounsaturated"/>
+<nutrient amount="0.677" name="Polyunsaturated"/>
+<nutrient amount="15.0" name="Cholesterol"/>
+</food>

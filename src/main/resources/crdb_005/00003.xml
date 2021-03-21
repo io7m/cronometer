@@ -1,0 +1,98 @@
+<recipe name="Sherm's Mega Muffins">
+
+<comments>
+Missing ingredients: zinc, calcium, stevia</comments>
+
+<measure amount="1.0" grams="1759.68" name="full recipe"/>
+<measure amount="1.0" grams="85.0" name="Muffin"/>
+
+<!-- <nutrient amount="176.7219911195975" name="Energy"/>
+<nutrient amount="9.38420405982906" name="Protein"/>
+<nutrient amount="25.346500159119838" name="Carbs"/>
+<nutrient amount="6.358769662665939" name="Fat"/>
+<nutrient amount="55.89335322331333" name="Water"/>
+<nutrient amount="9.35732102806571" name="Fiber"/>
+<nutrient amount="0.28531210220040004" name="Starch"/>
+<nutrient amount="2.373617703218767" name="Ash"/>
+<nutrient amount="0.4965555669212584" name="ALA"/>
+<nutrient amount="1.0324371362975087" name="ASP"/>
+<nutrient amount="0.6978492112202217" name="ARG"/>
+<nutrient amount="0.14969358065102742" name="CYS"/>
+<nutrient amount="1.7317061738497912" name="GLU"/>
+<nutrient amount="0.4501602791416621" name="GLY"/>
+<nutrient amount="0.24774661302054918" name="HIS"/>
+<nutrient amount="0.011027004909983632" name="HYP"/>
+<nutrient amount="0.4749529914529914" name="ILE"/>
+<nutrient amount="0.7462199945444626" name="LEU"/>
+<nutrient amount="0.6009633910711039" name="LYS"/>
+<nutrient amount="0.18734213038734313" name="MET"/>
+<nutrient amount="0.4890835038188761" name="PHE"/>
+<nutrient amount="0.5284202695944717" name="PRO"/>
+<nutrient amount="0.5124351586652118" name="SER"/>
+<nutrient amount="0.38977892571376616" name="THR"/>
+<nutrient amount="0.11895870840152754" name="TRP"/>
+<nutrient amount="0.344252898254228" name="TYR"/>
+<nutrient amount="0.5475432805964721" name="VAL"/>
+<nutrient amount="129.458803115718" name="Calcium"/>
+<nutrient amount="0.29286142935079096" name="Copper"/>
+<nutrient amount="3.528560533733406" name="Iron"/>
+<nutrient amount="103.49726086561195" name="Magnesium"/>
+<nutrient amount="1.6519235088197852" name="Manganese"/>
+<nutrient amount="352.3687602291326" name="Phosphorus"/>
+<nutrient amount="511.0098654300782" name="Potassium"/>
+<nutrient amount="8.794810420076379" name="Selenium"/>
+<nutrient amount="71.79856564829967" name="Sodium"/>
+<nutrient amount="1.5981776232042186" name="Zinc"/>
+<nutrient amount="727.5677964175304" name="Vitamin A"/>
+<nutrient amount="5.2111747590471" name="Retinol"/>
+<nutrient amount="139.53389252591379" name="Alpha-carotene"/>
+<nutrient amount="343.05771503909796" name="Beta-carotene"/>
+<nutrient amount="26.481462538643385" name="Beta-cryptoxanthin"/>
+<nutrient amount="0.15184579014366245" name="Lycopene"/>
+<nutrient amount="117.07206992180394" name="Lutein+Zeaxanthin"/>
+<nutrient amount="124.61223631569376" name="Folate"/>
+<nutrient amount="0.48684608565193666" name="B1 (Thiamine)"/>
+<nutrient amount="0.3293610656482996" name="B2 (Riboflavin)"/>
+<nutrient amount="4.429800418257864" name="B3 (Niacin)"/>
+<nutrient amount="1.3630386206583014" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.4432381114748136" name="B6 (Pyridoxine)"/>
+<nutrient amount="0.13599063466084743" name="B12 (Cyanocobalamin)"/>
+<nutrient amount="19.761478223313333" name="Vitamin C"/>
+<nutrient amount="4.767912347699582" name="Vitamin D"/>
+<nutrient amount="1.2490303918894345" name="Vitamin E"/>
+<nutrient amount="0.024418076013820695" name="Beta Tocopherol"/>
+<nutrient amount="0.023133751591198397" name="Delta Tocopherol"/>
+<nutrient amount="1.2865043644298961" name="Gamma Tocopherol"/>
+<nutrient amount="2.5170394617203127" name="Vitamin K"/>
+<nutrient amount="0.9455255728314239" name="Saturated"/>
+<nutrient amount="1.6994855655573742" name="Monounsaturated"/>
+<nutrient amount="3.1853791030187306" name="Polyunsaturated"/>
+<nutrient amount="1.4978728746135657" name="Omega-3"/>
+<nutrient amount="1.6892558874340788" name="Omega-6"/>
+<nutrient amount="12.758001454809964" name="Cholesterol"/>
+<nutrient amount="9.366816693944353" name="Phytosterol"/>
+-->
+
+<serving  grams="450.0" food="09318" source="USDA"/>
+<serving  grams="150.0" food="01117" source="USDA"/>
+<serving  grams="118.5" food="14429" source="USDA" measure="cup (8 fl oz)"/>
+<serving  grams="106.5" food="09214" source="USDA" measure="fl oz"/>
+<serving  grams="100.0" food="01124" source="USDA"/>
+<serving  grams="50.0" food="01123" source="USDA" measure="large"/>
+<serving  grams="70.0" food="11124" source="USDA"/>
+<serving  grams="45.0" food="09037" source="USDA"/>
+<serving  grams="118.0" food="20060" source="USDA" measure="cup"/>
+<serving  grams="110.88" food="12220" source="USDA" measure="cup, whole"/>
+<serving  grams="60.0" food="18375" source="USDA"/>
+<serving  grams="65.0" food="16122" source="USDA"/>
+<serving  grams="30.0" food="20078"  source="USDA"/>
+<serving  grams="30.0" food="12036"  source="USDA"/>
+<serving  grams="20.0" food="01091"  source="USDA"/>
+<serving  grams="30.0" food="09298" source="USDA"/>
+<serving  grams="100.0" food="09079"  source="USDA"/>
+<serving  grams="6.8" food="02010"  source="USDA" measure="tbsp"/>
+<serving  grams="1.8" food="02021"  source="USDA" measure="tsp"/>
+<serving  grams="2.2" food="02025" source="USDA" measure="tsp"/>
+<serving  grams="15.0" food="18371"  source="USDA"/>
+<serving grams="80.0" food="00001" source="CRDB"/>
+</recipe>

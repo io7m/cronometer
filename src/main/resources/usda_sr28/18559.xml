@@ -1,0 +1,24 @@
+<food fcf="9.0" pcf="4.0" uid="18559" name="ARCHWAY Home Style Cookies, Lemon Snaps" ccf="4.0">
+<measure amount="1.0" grams="31.0" name="serving"/>
+<nutrient amount="489.0" name="Energy"/>
+<nutrient amount="5.02" name="Protein"/>
+<nutrient amount="64.77" name="Carbs"/>
+<nutrient amount="1.1" name="Fiber"/>
+<nutrient amount="28.38" name="Sugars"/>
+<nutrient amount="23.54" name="Fat"/>
+<nutrient amount="5.3" name="Water"/>
+<nutrient amount="1.36" name="Ash"/>
+<nutrient amount="30.0" name="Calcium"/>
+<nutrient amount="2.14" name="Iron"/>
+<nutrient amount="77.0" name="Potassium"/>
+<nutrient amount="378.0" name="Sodium"/>
+<nutrient amount="34.0" name="Vitamin A"/>
+<nutrient amount="75.0" name="Folate"/>
+<nutrient amount="0.31" name="B1 (Thiamine)"/>
+<nutrient amount="0.23" name="B2 (Riboflavin)"/>
+<nutrient amount="2.39" name="B3 (Niacin)"/>
+<nutrient amount="5.64" name="Saturated"/>
+<nutrient amount="8.86" name="Monounsaturated"/>
+<nutrient amount="1.27" name="Polyunsaturated"/>
+<nutrient amount="23.0" name="Cholesterol"/>
+</food>

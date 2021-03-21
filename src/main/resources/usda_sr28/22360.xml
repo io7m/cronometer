@@ -1,0 +1,32 @@
+<food fcf="9.0" pcf="4.0" uid="22360" name="SUNNY FRESH, Pre-Cooked Frozen Egg and Cheese Biscuit Sandwich" ccf="4.0">
+<measure amount="1.0" grams="99.0" name="serving"/>
+<nutrient amount="226.0" name="Energy"/>
+<nutrient amount="9.97" name="Protein"/>
+<nutrient amount="24.83" name="Carbs"/>
+<nutrient amount="1.82" name="Sugars"/>
+<nutrient amount="8.96" name="Fat"/>
+<nutrient amount="53.49" name="Water"/>
+<nutrient amount="2.87" name="Ash"/>
+<nutrient amount="102.0" name="Calcium"/>
+<nutrient amount="0.0060" name="Copper"/>
+<nutrient amount="2.27" name="Iron"/>
+<nutrient amount="3.0" name="Magnesium"/>
+<nutrient amount="0.0070" name="Manganese"/>
+<nutrient amount="50.0" name="Phosphorus"/>
+<nutrient amount="40.0" name="Potassium"/>
+<nutrient amount="569.0" name="Sodium"/>
+<nutrient amount="0.3" name="Zinc"/>
+<nutrient amount="207.0" name="Vitamin A"/>
+<nutrient amount="0.239" name="B1 (Thiamine)"/>
+<nutrient amount="0.307" name="B2 (Riboflavin)"/>
+<nutrient amount="2.038" name="B3 (Niacin)"/>
+<nutrient amount="0.332" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.037" name="B6 (Pyridoxine)"/>
+<nutrient amount="0.27" name="B12 (Cyanocobalamin)"/>
+<nutrient amount="2.375" name="Saturated"/>
+<nutrient amount="1.145" name="Monounsaturated"/>
+<nutrient amount="3.704" name="Polyunsaturated"/>
+<nutrient amount="0.269" name="Omega-3"/>
+<nutrient amount="3.4339999999999997" name="Omega-6"/>
+<nutrient amount="112.0" name="Cholesterol"/>
+</food>

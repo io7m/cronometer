@@ -1,0 +1,32 @@
+<food fcf="9.0" pcf="4.0" uid="22362" name="SUNNY FRESH, Frozen Bagel French Toast with Maple Syrup" ccf="4.0">
+<measure amount="1.0" grams="71.0" name="serving"/>
+<nutrient amount="268.0" name="Energy"/>
+<nutrient amount="19.75" name="Protein"/>
+<nutrient amount="29.6" name="Carbs"/>
+<nutrient amount="8.03" name="Sugars"/>
+<nutrient amount="7.52" name="Fat"/>
+<nutrient amount="41.1" name="Water"/>
+<nutrient amount="1.83" name="Ash"/>
+<nutrient amount="56.0" name="Calcium"/>
+<nutrient amount="0.025" name="Copper"/>
+<nutrient amount="0.96" name="Iron"/>
+<nutrient amount="5.0" name="Magnesium"/>
+<nutrient amount="0.0090" name="Manganese"/>
+<nutrient amount="125.0" name="Phosphorus"/>
+<nutrient amount="96.0" name="Potassium"/>
+<nutrient amount="399.0" name="Sodium"/>
+<nutrient amount="0.49" name="Zinc"/>
+<nutrient amount="258.0" name="Vitamin A"/>
+<nutrient amount="0.038" name="B1 (Thiamine)"/>
+<nutrient amount="0.213" name="B2 (Riboflavin)"/>
+<nutrient amount="0.207" name="B3 (Niacin)"/>
+<nutrient amount="0.544" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.058" name="B6 (Pyridoxine)"/>
+<nutrient amount="0.5" name="B12 (Cyanocobalamin)"/>
+<nutrient amount="1.769" name="Saturated"/>
+<nutrient amount="2.457" name="Monounsaturated"/>
+<nutrient amount="1.827" name="Polyunsaturated"/>
+<nutrient amount="0.092" name="Omega-3"/>
+<nutrient amount="1.733" name="Omega-6"/>
+<nutrient amount="181.0" name="Cholesterol"/>
+</food>

@@ -1,0 +1,13 @@
+<food name="Psyllium Husks, Raw (University of Minnesota)">
+<comments>
+1 C = 93 g using my brand, but this will vary depending on how finely
+it is milled. Check your brand and customize the entry accordingly.
+</comments>
+<measure amount="1.0" grams="93.0" name="Cup"/>
+<nutrient amount="50.10637106706976" name="Energy"/>
+<nutrient amount="2.9000111969544284" name="Protein"/>
+<nutrient amount="80.80002239390885" name="Carbs"/>
+<nutrient amount="0.5010637106706975" name="Fat"/>
+<nutrient amount="72.00201545179712" name="Fiber"/>
+<nutrient amount="34.990482588735865" name="Sodium"/>
+</food>

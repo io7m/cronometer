@@ -1,0 +1,18 @@
+<food fcf="9.0" pcf="4.0" uid="22693" name="CASTLEBERRY PREMIUM Beef Stew, canned entree" ccf="4.0">
+<measure amount="1.0" grams="680.0" name="package yields"/>
+<measure amount="1.0" grams="245.0" name="serving"/>
+<nutrient amount="135.0" name="Energy"/>
+<nutrient amount="6.2" name="Protein"/>
+<nutrient amount="8.3" name="Carbs"/>
+<nutrient amount="0.9" name="Fiber"/>
+<nutrient amount="8.6" name="Fat"/>
+<nutrient amount="75.8" name="Water"/>
+<nutrient amount="1.1" name="Ash"/>
+<nutrient amount="409.0" name="Sodium"/>
+<nutrient amount="383.0" name="Vitamin A"/>
+<nutrient amount="230.0" name="Beta-carotene"/>
+<nutrient amount="3.24" name="Saturated"/>
+<nutrient amount="3.92" name="Monounsaturated"/>
+<nutrient amount="0.23" name="Polyunsaturated"/>
+<nutrient amount="23.0" name="Cholesterol"/>
+</food>

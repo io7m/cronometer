@@ -1,0 +1,22 @@
+<food fcf="9.0" pcf="4.0" uid="18552" name="ARCHWAY Home Style Cookies, Fat Free Cinnamon Honey Hearts" ccf="4.0">
+<measure amount="1.0" grams="30.0" name="serving"/>
+<nutrient amount="352.0" name="Energy"/>
+<nutrient amount="4.61" name="Protein"/>
+<nutrient amount="82.27" name="Carbs"/>
+<nutrient amount="1.3" name="Fiber"/>
+<nutrient amount="42.64" name="Sugars"/>
+<nutrient amount="0.77" name="Fat"/>
+<nutrient amount="10.74" name="Water"/>
+<nutrient amount="1.62" name="Ash"/>
+<nutrient amount="21.0" name="Calcium"/>
+<nutrient amount="2.69" name="Iron"/>
+<nutrient amount="66.0" name="Potassium"/>
+<nutrient amount="411.0" name="Sodium"/>
+<nutrient amount="78.0" name="Folate"/>
+<nutrient amount="0.33" name="B1 (Thiamine)"/>
+<nutrient amount="0.21" name="B2 (Riboflavin)"/>
+<nutrient amount="2.61" name="B3 (Niacin)"/>
+<nutrient amount="0.21" name="Saturated"/>
+<nutrient amount="0.22" name="Monounsaturated"/>
+<nutrient amount="0.34" name="Polyunsaturated"/>
+</food>

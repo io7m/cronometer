@@ -1,0 +1,22 @@
+<food fcf="9.0" pcf="4.0" uid="18530" name="ARCHWAY Home Style Cookies, Frosty Orange" ccf="4.0">
+<measure amount="1.0" grams="26.0" name="serving"/>
+<nutrient amount="434.0" name="Energy"/>
+<nutrient amount="4.53" name="Protein"/>
+<nutrient amount="64.86" name="Carbs"/>
+<nutrient amount="0.8" name="Fiber"/>
+<nutrient amount="33.98" name="Sugars"/>
+<nutrient amount="17.6" name="Fat"/>
+<nutrient amount="11.24" name="Water"/>
+<nutrient amount="1.77" name="Ash"/>
+<nutrient amount="43.0" name="Calcium"/>
+<nutrient amount="1.61" name="Iron"/>
+<nutrient amount="93.0" name="Potassium"/>
+<nutrient amount="360.0" name="Sodium"/>
+<nutrient amount="58.0" name="Folate"/>
+<nutrient amount="0.24" name="B1 (Thiamine)"/>
+<nutrient amount="0.2" name="B2 (Riboflavin)"/>
+<nutrient amount="1.86" name="B3 (Niacin)"/>
+<nutrient amount="5.24" name="Saturated"/>
+<nutrient amount="5.63" name="Monounsaturated"/>
+<nutrient amount="2.11" name="Polyunsaturated"/>
+</food>

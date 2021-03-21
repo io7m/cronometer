@@ -1,0 +1,15 @@
+<food fcf="9.0" pcf="4.0" uid="18636" name="HIDDEN VALLEY RANCH, SALAD CRISPINS Italian Style, Parmesan Croutons" ccf="4.0">
+<measure amount="1.0" grams="7.0" name="serving"/>
+<nutrient amount="434.0" name="Energy"/>
+<nutrient amount="11.9" name="Protein"/>
+<nutrient amount="67.8" name="Carbs"/>
+<nutrient amount="12.8" name="Fat"/>
+<nutrient amount="3.6" name="Water"/>
+<nutrient amount="3.9" name="Ash"/>
+<nutrient amount="1140.0" name="Sodium"/>
+<nutrient amount="1.433" name="Saturated"/>
+<nutrient amount="6.38" name="Monounsaturated"/>
+<nutrient amount="3.243" name="Polyunsaturated"/>
+<nutrient amount="0.827" name="Omega-3"/>
+<nutrient amount="2.411" name="Omega-6"/>
+</food>

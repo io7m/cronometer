@@ -1,0 +1,14 @@
+<food fcf="9.0" pcf="4.0" uid="35090" name="Fish, whitefish, broad, roe (Alaska Native)" ccf="4.0">
+<nutrient amount="87.0" name="Energy"/>
+<nutrient amount="8.0" name="Protein"/>
+<nutrient amount="2.4" name="Carbs"/>
+<nutrient amount="5.0" name="Fat"/>
+<nutrient amount="83.8" name="Water"/>
+<nutrient amount="0.8" name="Ash"/>
+<nutrient amount="54.0" name="Calcium"/>
+<nutrient amount="0.9" name="Iron"/>
+<nutrient amount="312.0" name="Phosphorus"/>
+<nutrient amount="490.0" name="Vitamin A"/>
+<nutrient amount="0.15" name="B1 (Thiamine)"/>
+<nutrient amount="1.4" name="B3 (Niacin)"/>
+</food>

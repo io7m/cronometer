@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18523" name="ARCHWAY Home Style Cookies, Cinnamon Apple" ccf="4.0">
+<measure amount="1.0" grams="26.0" name="serving"/>
+<nutrient amount="408.0" name="Energy"/>
+<nutrient amount="4.99" name="Protein"/>
+<nutrient amount="66.12" name="Carbs"/>
+<nutrient amount="1.5" name="Fiber"/>
+<nutrient amount="30.81" name="Sugars"/>
+<nutrient amount="14.06" name="Fat"/>
+<nutrient amount="12.8" name="Water"/>
+<nutrient amount="2.03" name="Ash"/>
+<nutrient amount="32.0" name="Calcium"/>
+<nutrient amount="2.42" name="Iron"/>
+<nutrient amount="90.0" name="Potassium"/>
+<nutrient amount="506.0" name="Sodium"/>
+<nutrient amount="1.0" name="Vitamin A"/>
+<nutrient amount="66.0" name="Folate"/>
+<nutrient amount="0.28" name="B1 (Thiamine)"/>
+<nutrient amount="0.21" name="B2 (Riboflavin)"/>
+<nutrient amount="2.19" name="B3 (Niacin)"/>
+<nutrient amount="3.34" name="Saturated"/>
+<nutrient amount="5.22" name="Monounsaturated"/>
+<nutrient amount="0.81" name="Polyunsaturated"/>
+</food>

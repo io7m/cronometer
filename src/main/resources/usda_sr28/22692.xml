@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="22692" name="ARMOUR Corned Beef Hash, canned entree" ccf="4.0">
+<measure amount="1.0" grams="425.0" name="package yields"/>
+<measure amount="1.0" grams="236.0" name="serving"/>
+<nutrient amount="211.0" name="Energy"/>
+<nutrient amount="10.1" name="Protein"/>
+<nutrient amount="5.1" name="Carbs"/>
+<nutrient amount="0.8" name="Fiber"/>
+<nutrient amount="16.7" name="Fat"/>
+<nutrient amount="66.8" name="Water"/>
+<nutrient amount="1.3" name="Ash"/>
+<nutrient amount="0.93" name="Iron"/>
+<nutrient amount="362.0" name="Sodium"/>
+<nutrient amount="6.63" name="Saturated"/>
+<nutrient amount="7.39" name="Monounsaturated"/>
+<nutrient amount="0.35" name="Polyunsaturated"/>
+<nutrient amount="41.0" name="Cholesterol"/>
+</food>

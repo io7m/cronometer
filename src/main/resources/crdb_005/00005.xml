@@ -1,0 +1,53 @@
+<food  name="Jarrow Whey protein powder" >
+  <measure  name="scoop" amount="1.0" grams="21.0" />
+  <nutrient  name="Energy" amount="380.95238095238096" />
+  <nutrient  name="Protein" amount="85.71428571428572" />
+  <nutrient  name="Carbs" amount="19.047619047619047" />
+  <nutrient  name="Fat" amount="4.761904761904762" />
+  <nutrient  name="Ash" amount="8.35" />
+  <nutrient  name="ALA" amount="0.598" />
+  <nutrient  name="ASP" amount="1.269" />
+  <nutrient  name="ARG" amount="0.375" />
+  <nutrient  name="CYS" amount="0.253" />
+  <nutrient  name="GLU" amount="2.248" />
+  <nutrient  name="GLY" amount="0.28" />
+  <nutrient  name="HIS" amount="0.237" />
+  <nutrient  name="ILE" amount="0.719" />
+  <nutrient  name="LEU" amount="1.186" />
+  <nutrient  name="LYS" amount="1.03" />
+  <nutrient  name="MET" amount="0.241" />
+  <nutrient  name="PHE" amount="0.407" />
+  <nutrient  name="PRO" amount="0.786" />
+  <nutrient  name="SER" amount="0.622" />
+  <nutrient  name="THR" amount="0.817" />
+  <nutrient  name="TRP" amount="0.205" />
+  <nutrient  name="TYR" amount="0.363" />
+  <nutrient  name="VAL" amount="0.697" />
+  <nutrient  name="Calcium" amount="380.95238095238096" />
+  <nutrient  name="Copper" amount="0.07" />
+  <nutrient  name="Iron" amount="0.88" />
+  <nutrient  name="Magnesium" amount="176.0" />
+  <nutrient  name="Manganese" amount="0.0090" />
+  <nutrient  name="Phosphorus" amount="932.0" />
+  <nutrient  name="Potassium" amount="2080.0" />
+  <nutrient  name="Selenium" amount="27.2" />
+  <nutrient  name="Sodium" amount="1079.0" />
+  <nutrient  name="Zinc" amount="1.97" />
+  <nutrient  name="Vitamin A" amount="30.0" />
+  <nutrient  name="Retinol" amount="8.0" />
+  <nutrient  name="Beta-carotene" amount="2.0" />
+  <nutrient  name="B1 (Thiamine)" amount="0.519" />
+  <nutrient  name="B2 (Riboflavin)" amount="2.208" />
+  <nutrient  name="B3 (Niacin)" amount="1.258" />
+  <nutrient  name="B5 (Pantothenic Acid)" amount="5.62" />
+  <nutrient  name="B6 (Pyridoxine)" amount="0.584" />
+  <nutrient  name="B12 (Cyanocobalamin)" amount="2.37" />
+  <nutrient  name="Vitamin C" amount="1.5" />
+  <nutrient  name="Vitamin E" amount="0.02" />
+  <nutrient  name="Vitamin K" amount="0.1" />
+  <nutrient  name="Folate" amount="12.0" />
+  <nutrient  name="Saturated" amount="0.684" />
+  <nutrient  name="Monounsaturated" amount="0.297" />
+  <nutrient  name="Polyunsaturated" amount="0.034" />
+  <nutrient  name="Cholesterol" amount="6.0" />
+</food>

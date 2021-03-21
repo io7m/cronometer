@@ -1,0 +1,20 @@
+<food fcf="9.0" pcf="4.0" uid="22608" name="MICHELINA'S Spaghetti with Meatballs &amp; Pomodoro Sauce, Low Fat frozen entree" ccf="4.0">
+<measure amount="1.0" grams="284.0" name="package yields"/>
+<measure amount="1.0" grams="284.0" name="serving"/>
+<nutrient amount="110.0" name="Energy"/>
+<nutrient amount="4.8" name="Protein"/>
+<nutrient amount="17.1" name="Carbs"/>
+<nutrient amount="2.2" name="Fiber"/>
+<nutrient amount="2.5" name="Fat"/>
+<nutrient amount="74.2" name="Water"/>
+<nutrient amount="1.4" name="Ash"/>
+<nutrient amount="1.03" name="Iron"/>
+<nutrient amount="356.0" name="Sodium"/>
+<nutrient amount="183.0" name="Vitamin A"/>
+<nutrient amount="110.0" name="Beta-carotene"/>
+<nutrient amount="3.1" name="Vitamin C"/>
+<nutrient amount="0.779" name="Saturated"/>
+<nutrient amount="0.925" name="Monounsaturated"/>
+<nutrient amount="0.37" name="Polyunsaturated"/>
+<nutrient amount="5.0" name="Cholesterol"/>
+</food>

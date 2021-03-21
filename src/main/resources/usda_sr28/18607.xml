@@ -1,0 +1,14 @@
+<food fcf="9.0" pcf="4.0" uid="18607" name="FRANCHISE ASSOCIATES, HOWARD JOHNSON'S TOASTEES, Blueberry Toaster Muffins, frozen, ready to eat" ccf="4.0">
+<measure amount="1.0" grams="71.0" name="serving"/>
+<nutrient amount="331.0" name="Energy"/>
+<nutrient amount="7.1" name="Protein"/>
+<nutrient amount="45.1" name="Carbs"/>
+<nutrient amount="13.6" name="Fat"/>
+<nutrient amount="32.4" name="Water"/>
+<nutrient amount="1.8" name="Ash"/>
+<nutrient amount="65.0" name="Calcium"/>
+<nutrient amount="2.38" name="Iron"/>
+<nutrient amount="575.0" name="Sodium"/>
+<nutrient amount="2.16" name="Saturated"/>
+<nutrient amount="30.0" name="Cholesterol"/>
+</food>

@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18551" name="ARCHWAY Home Style Cookies,Gourmet Chocolate Chip n' Toffee" ccf="4.0">
+<measure amount="1.0" grams="28.0" name="serving"/>
+<nutrient amount="468.0" name="Energy"/>
+<nutrient amount="4.4" name="Protein"/>
+<nutrient amount="64.0" name="Carbs"/>
+<nutrient amount="1.8" name="Fiber"/>
+<nutrient amount="32.44" name="Sugars"/>
+<nutrient amount="21.89" name="Fat"/>
+<nutrient amount="7.8" name="Water"/>
+<nutrient amount="1.91" name="Ash"/>
+<nutrient amount="14.0" name="Calcium"/>
+<nutrient amount="2.19" name="Iron"/>
+<nutrient amount="74.0" name="Potassium"/>
+<nutrient amount="442.0" name="Sodium"/>
+<nutrient amount="73.0" name="Vitamin A"/>
+<nutrient amount="0.25" name="B1 (Thiamine)"/>
+<nutrient amount="0.18" name="B2 (Riboflavin)"/>
+<nutrient amount="2.05" name="B3 (Niacin)"/>
+<nutrient amount="6.36" name="Saturated"/>
+<nutrient amount="8.31" name="Monounsaturated"/>
+<nutrient amount="1.63" name="Polyunsaturated"/>
+<nutrient amount="21.0" name="Cholesterol"/>
+</food>

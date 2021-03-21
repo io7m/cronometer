@@ -1,0 +1,20 @@
+<food fcf="9.0" pcf="4.0" uid="22616" name="THE BUDGET GOURMET LIGHT &amp; HEALTHY Beef Sirloin Salisbury Steak with Red Skinned Potatoes &amp; Vegetables, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="311.0" name="package yields"/>
+<measure amount="1.0" grams="311.0" name="serving"/>
+<nutrient amount="84.0" name="Energy"/>
+<nutrient amount="5.9" name="Protein"/>
+<nutrient amount="10.9" name="Carbs"/>
+<nutrient amount="2.3" name="Fiber"/>
+<nutrient amount="1.9" name="Fat"/>
+<nutrient amount="80.3" name="Water"/>
+<nutrient amount="1.0" name="Ash"/>
+<nutrient amount="0.98" name="Iron"/>
+<nutrient amount="159.0" name="Sodium"/>
+<nutrient amount="467.0" name="Vitamin A"/>
+<nutrient amount="280.0" name="Beta-carotene"/>
+<nutrient amount="16.4" name="Vitamin C"/>
+<nutrient amount="0.649" name="Saturated"/>
+<nutrient amount="0.564" name="Monounsaturated"/>
+<nutrient amount="0.301" name="Polyunsaturated"/>
+<nutrient amount="14.0" name="Cholesterol"/>
+</food>

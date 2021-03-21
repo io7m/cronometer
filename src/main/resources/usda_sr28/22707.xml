@@ -1,0 +1,22 @@
+<food fcf="9.0" pcf="4.0" uid="22707" name="HEALTHY CHOICE Mesquite Beef with Barbecue Sauce, Mashed Potatoes, and Sweetened Corn, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="311.0" name="package yields"/>
+<measure amount="1.0" grams="311.0" name="serving"/>
+<nutrient amount="103.0" name="Energy"/>
+<nutrient amount="6.88" name="Protein"/>
+<nutrient amount="12.31" name="Carbs"/>
+<nutrient amount="1.6" name="Fiber"/>
+<nutrient amount="5.3" name="Sugars"/>
+<nutrient amount="2.89" name="Fat"/>
+<nutrient amount="76.78" name="Water"/>
+<nutrient amount="1.14" name="Ash"/>
+<nutrient amount="12.0" name="Calcium"/>
+<nutrient amount="0.35" name="Iron"/>
+<nutrient amount="87.0" name="Phosphorus"/>
+<nutrient amount="293.0" name="Potassium"/>
+<nutrient amount="158.0" name="Sodium"/>
+<nutrient amount="394.0" name="Vitamin A"/>
+<nutrient amount="0.94" name="Saturated"/>
+<nutrient amount="1.05" name="Monounsaturated"/>
+<nutrient amount="0.9" name="Polyunsaturated"/>
+<nutrient amount="1.0" name="Cholesterol"/>
+</food>

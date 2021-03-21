@@ -1,0 +1,50 @@
+<food name="Tofu, extra firm, Sunrise">
+<comments>
+</comments>
+<measure amount="0.2" grams="91.0" name="block"/>
+<nutrient amount="152.94117647058823" name="Energy"/>
+<nutrient amount="15.294117647058824" name="Protein"/>
+<nutrient amount="2.3529411764705883" name="Carbs"/>
+<nutrient amount="9.411764705882353" name="Fat"/>
+<nutrient amount="81.28" name="Water"/>
+<nutrient amount="0.4" name="Fiber"/>
+<nutrient amount="1.0" name="Ash"/>
+<nutrient amount="0.406" name="ALA"/>
+<nutrient amount="1.093" name="ASP"/>
+<nutrient amount="0.657" name="ARG"/>
+<nutrient amount="0.137" name="CYS"/>
+<nutrient amount="1.709" name="GLU"/>
+<nutrient amount="0.386" name="GLY"/>
+<nutrient amount="0.288" name="HIS"/>
+<nutrient amount="0.49" name="ILE"/>
+<nutrient amount="0.751" name="LEU"/>
+<nutrient amount="0.651" name="LYS"/>
+<nutrient amount="0.126" name="MET"/>
+<nutrient amount="0.481" name="PHE"/>
+<nutrient amount="0.533" name="PRO"/>
+<nutrient amount="0.466" name="SER"/>
+<nutrient amount="0.404" name="THR"/>
+<nutrient amount="0.154" name="TRP"/>
+<nutrient amount="0.331" name="TYR"/>
+<nutrient amount="0.499" name="VAL"/>
+<nutrient amount="117.64705882352942" name="Calcium"/>
+<nutrient amount="0.191" name="Copper"/>
+<nutrient amount="3.176470588235294" name="Iron"/>
+<nutrient amount="53.0" name="Magnesium"/>
+<nutrient amount="0.759" name="Manganese"/>
+<nutrient amount="136.0" name="Phosphorus"/>
+<nutrient amount="132.0" name="Potassium"/>
+<nutrient amount="13.0" name="Selenium"/>
+<nutrient amount="8.0" name="Sodium"/>
+<nutrient amount="1.1" name="Zinc"/>
+<nutrient amount="17.0" name="Folate"/>
+<nutrient amount="0.048" name="B1 (Thiamine)"/>
+<nutrient amount="0.045" name="B2 (Riboflavin)"/>
+<nutrient amount="0.288" name="B3 (Niacin)"/>
+<nutrient amount="0.453" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.063" name="B6 (Pyridoxine)"/>
+<nutrient amount="0.5" name="Vitamin C"/>
+<nutrient amount="1.7647058823529411" name="Saturated"/>
+<nutrient amount="4.338" name="Monounsaturated"/>
+<nutrient amount="0.542" name="Polyunsaturated"/>
+</food>

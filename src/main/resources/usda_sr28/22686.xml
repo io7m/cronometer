@@ -1,0 +1,13 @@
+<food fcf="9.0" pcf="4.0" uid="22686" name="TYSON Beef Stir Fry Kit; Cooked White Rice, Oriental Style Vegetables, Seasoned Beef Strips, Oriental Style Sauce, frozen entree, Product Code 5332-921" ccf="4.0">
+<measure amount="1.0" grams="810.0" name="package yields"/>
+<measure amount="1.0" grams="405.0" name="serving"/>
+<nutrient amount="107.0" name="Energy"/>
+<nutrient amount="6.37" name="Protein"/>
+<nutrient amount="17.48" name="Carbs"/>
+<nutrient amount="1.23" name="Fat"/>
+<nutrient amount="73.55" name="Water"/>
+<nutrient amount="1.37" name="Ash"/>
+<nutrient amount="391.0" name="Sodium"/>
+<nutrient amount="682.0" name="Vitamin A"/>
+<nutrient amount="6.2" name="Vitamin C"/>
+</food>

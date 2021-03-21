@@ -1,0 +1,26 @@
+<food fcf="9.0" pcf="4.0" uid="18620" name="NABISCO, NABISCO ORIGINAL PREMIUM Saltine Crackers" ccf="4.0">
+<measure amount="1.0" grams="14.0" name="serving"/>
+<nutrient amount="420.0" name="Energy"/>
+<nutrient amount="10.9" name="Protein"/>
+<nutrient amount="71.1" name="Carbs"/>
+<nutrient amount="2.6" name="Fiber"/>
+<nutrient amount="10.2" name="Fat"/>
+<nutrient amount="3.4" name="Water"/>
+<nutrient amount="4.4" name="Ash"/>
+<nutrient amount="193.0" name="Calcium"/>
+<nutrient amount="5.19" name="Iron"/>
+<nutrient amount="21.0" name="Magnesium"/>
+<nutrient amount="99.0" name="Phosphorus"/>
+<nutrient amount="99.0" name="Potassium"/>
+<nutrient amount="1270.0" name="Sodium"/>
+<nutrient amount="84.0" name="Folate"/>
+<nutrient amount="0.33" name="B1 (Thiamine)"/>
+<nutrient amount="0.44" name="B2 (Riboflavin)"/>
+<nutrient amount="4.37" name="B3 (Niacin)"/>
+<nutrient amount="0.047" name="B6 (Pyridoxine)"/>
+<nutrient amount="1.85" name="Saturated"/>
+<nutrient amount="5.85" name="Monounsaturated"/>
+<nutrient amount="1.72" name="Polyunsaturated"/>
+<nutrient amount="0.043" name="Omega-3"/>
+<nutrient amount="0.885" name="Omega-6"/>
+</food>

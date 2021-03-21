@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18504" name="LENDER'S Bagel Shop Blueberry Bagels" ccf="4.0">
+<measure amount="1.0" grams="102.0" name="bagel (4&quot; dia)"/>
+<nutrient amount="259.0" name="Energy"/>
+<nutrient amount="10.5" name="Protein"/>
+<nutrient amount="52.33" name="Carbs"/>
+<nutrient amount="1.7" name="Fiber"/>
+<nutrient amount="9.43" name="Sugars"/>
+<nutrient amount="1.5" name="Fat"/>
+<nutrient amount="33.96" name="Water"/>
+<nutrient amount="1.53" name="Ash"/>
+<nutrient amount="56.0" name="Calcium"/>
+<nutrient amount="1.8" name="Iron"/>
+<nutrient amount="155.0" name="Potassium"/>
+<nutrient amount="419.0" name="Sodium"/>
+<nutrient amount="74.0" name="Folate"/>
+<nutrient amount="0.26" name="B1 (Thiamine)"/>
+<nutrient amount="0.2" name="B2 (Riboflavin)"/>
+<nutrient amount="4.0" name="B3 (Niacin)"/>
+<nutrient amount="0.06" name="B6 (Pyridoxine)"/>
+<nutrient amount="0.3" name="Saturated"/>
+<nutrient amount="0.4" name="Monounsaturated"/>
+<nutrient amount="0.5" name="Polyunsaturated"/>
+</food>

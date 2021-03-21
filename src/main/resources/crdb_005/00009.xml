@@ -1,0 +1,16 @@
+<food uid="8" name="Vinegar, balsamic">
+<measure amount="1.0" grams="15.0" name="tbsp"/>
+<nutrient amount="53.333333333333336" name="Energy"/>
+<nutrient amount="13.333333333333334" name="Carbs"/>
+<nutrient amount="93.8" name="Water"/>
+<nutrient amount="0.3" name="Ash"/>
+<nutrient amount="6.0" name="Calcium"/>
+<nutrient amount="0.04" name="Copper"/>
+<nutrient amount="0.6" name="Iron"/>
+<nutrient amount="22.0" name="Magnesium"/>
+<nutrient amount="0.24" name="Manganese"/>
+<nutrient amount="9.0" name="Phosphorus"/>
+<nutrient amount="100.0" name="Potassium"/>
+<nutrient amount="0.1" name="Selenium"/>
+<nutrient amount="1.0" name="Sodium"/>
+</food>

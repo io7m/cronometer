@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18534" name="ARCHWAY Home Style Cookies, Lemon Drop" ccf="4.0">
+<measure amount="1.0" grams="24.0" name="serving"/>
+<nutrient amount="389.0" name="Energy"/>
+<nutrient amount="5.15" name="Protein"/>
+<nutrient amount="61.66" name="Carbs"/>
+<nutrient amount="1.2" name="Fiber"/>
+<nutrient amount="27.67" name="Sugars"/>
+<nutrient amount="13.85" name="Fat"/>
+<nutrient amount="17.5" name="Water"/>
+<nutrient amount="1.84" name="Ash"/>
+<nutrient amount="37.0" name="Calcium"/>
+<nutrient amount="2.2" name="Iron"/>
+<nutrient amount="83.0" name="Potassium"/>
+<nutrient amount="395.0" name="Sodium"/>
+<nutrient amount="58.0" name="Vitamin A"/>
+<nutrient amount="0.28" name="B1 (Thiamine)"/>
+<nutrient amount="0.24" name="B2 (Riboflavin)"/>
+<nutrient amount="2.26" name="B3 (Niacin)"/>
+<nutrient amount="3.35" name="Saturated"/>
+<nutrient amount="5.13" name="Monounsaturated"/>
+<nutrient amount="1.11" name="Polyunsaturated"/>
+<nutrient amount="37.0" name="Cholesterol"/>
+</food>

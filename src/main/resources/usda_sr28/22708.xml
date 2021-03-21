@@ -1,0 +1,21 @@
+<food fcf="9.0" pcf="4.0" uid="22708" name="HEALTHY CHOICE Salisbury Steak with Mushroom Gravy, Mashed Potatoes, and Sweetened Corn Medley, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="326.0" name="package yields"/>
+<measure amount="1.0" grams="326.0" name="serving"/>
+<nutrient amount="100.0" name="Energy"/>
+<nutrient amount="5.53" name="Protein"/>
+<nutrient amount="14.73" name="Carbs"/>
+<nutrient amount="1.9" name="Fiber"/>
+<nutrient amount="7.3" name="Sugars"/>
+<nutrient amount="2.13" name="Fat"/>
+<nutrient amount="76.78" name="Water"/>
+<nutrient amount="0.83" name="Ash"/>
+<nutrient amount="13.0" name="Calcium"/>
+<nutrient amount="0.68" name="Iron"/>
+<nutrient amount="143.0" name="Sodium"/>
+<nutrient amount="311.0" name="Vitamin A"/>
+<nutrient amount="3.6" name="Vitamin C"/>
+<nutrient amount="0.92" name="Saturated"/>
+<nutrient amount="0.86" name="Monounsaturated"/>
+<nutrient amount="0.35" name="Polyunsaturated"/>
+<nutrient amount="15.0" name="Cholesterol"/>
+</food>

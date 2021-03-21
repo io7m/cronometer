@@ -1,0 +1,21 @@
+<food fcf="9.0" pcf="4.0" uid="22604" name="HEALTHY CHOICE, Cheddar Broccoli Potatoes with Cheese Sauce, frozen" ccf="4.0">
+<measure amount="1.0" grams="298.0" name="package"/>
+<measure amount="1.0" grams="297.0" name="serving"/>
+<nutrient amount="110.0" name="Energy"/>
+<nutrient amount="4.36" name="Protein"/>
+<nutrient amount="17.8" name="Carbs"/>
+<nutrient amount="2.0" name="Fiber"/>
+<nutrient amount="2.5" name="Sugars"/>
+<nutrient amount="2.34" name="Fat"/>
+<nutrient amount="74.15" name="Water"/>
+<nutrient amount="1.34" name="Ash"/>
+<nutrient amount="81.0" name="Calcium"/>
+<nutrient amount="0.36" name="Iron"/>
+<nutrient amount="185.0" name="Sodium"/>
+<nutrient amount="111.0" name="Vitamin A"/>
+<nutrient amount="9.7" name="Vitamin C"/>
+<nutrient amount="1.0" name="Saturated"/>
+<nutrient amount="0.73" name="Monounsaturated"/>
+<nutrient amount="0.61" name="Polyunsaturated"/>
+<nutrient amount="9.0" name="Cholesterol"/>
+</food>

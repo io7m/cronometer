@@ -1,0 +1,20 @@
+<food fcf="9.0" pcf="4.0" uid="22610" name="STOUFFER'S LUNCH EXPRESS Chicken Alfredo with fettucini and vegetables, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="272.0" name="package yields"/>
+<measure amount="1.0" grams="272.0" name="serving"/>
+<nutrient amount="137.0" name="Energy"/>
+<nutrient amount="7.0" name="Protein"/>
+<nutrient amount="12.0" name="Carbs"/>
+<nutrient amount="1.4" name="Fiber"/>
+<nutrient amount="6.8" name="Fat"/>
+<nutrient amount="73.2" name="Water"/>
+<nutrient amount="1.0" name="Ash"/>
+<nutrient amount="54.0" name="Calcium"/>
+<nutrient amount="216.0" name="Sodium"/>
+<nutrient amount="892.0" name="Vitamin A"/>
+<nutrient amount="500.0" name="Beta-carotene"/>
+<nutrient amount="8.9" name="Vitamin C"/>
+<nutrient amount="2.57" name="Saturated"/>
+<nutrient amount="2.3" name="Monounsaturated"/>
+<nutrient amount="0.88" name="Polyunsaturated"/>
+<nutrient amount="21.0" name="Cholesterol"/>
+</food>

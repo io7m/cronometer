@@ -1,0 +1,21 @@
+<food fcf="9.0" pcf="4.0" uid="22675" name="BANQUET EXTRA HELPING Meat Loaf Dinner, with Tomato Sauce, Mashed Potatoes and Carrots in Seasoned Sauce, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="453.0" name="package yields"/>
+<measure amount="1.0" grams="453.0" name="serving"/>
+<nutrient amount="135.0" name="Energy"/>
+<nutrient amount="6.42" name="Protein"/>
+<nutrient amount="7.41" name="Carbs"/>
+<nutrient amount="1.4" name="Fiber"/>
+<nutrient amount="2.7" name="Sugars"/>
+<nutrient amount="8.84" name="Fat"/>
+<nutrient amount="75.81" name="Water"/>
+<nutrient amount="1.53" name="Ash"/>
+<nutrient amount="17.0" name="Calcium"/>
+<nutrient amount="0.87" name="Iron"/>
+<nutrient amount="429.0" name="Sodium"/>
+<nutrient amount="461.0" name="Vitamin A"/>
+<nutrient amount="1.7" name="Vitamin C"/>
+<nutrient amount="3.42" name="Saturated"/>
+<nutrient amount="3.82" name="Monounsaturated"/>
+<nutrient amount="1.6" name="Polyunsaturated"/>
+<nutrient amount="25.0" name="Cholesterol"/>
+</food>

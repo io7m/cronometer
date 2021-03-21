@@ -1,0 +1,15 @@
+<food fcf="9.0" pcf="4.0" uid="22697" name="LIBBY'S SPREADABLES Ready To Serve Sandwich Salads, Chicken Salad, shelf stable" ccf="4.0">
+<measure amount="1.0" grams="227.0" name="package yields"/>
+<measure amount="1.0" grams="118.0" name="serving"/>
+<nutrient amount="145.0" name="Energy"/>
+<nutrient amount="4.9" name="Protein"/>
+<nutrient amount="10.1" name="Carbs"/>
+<nutrient amount="9.4" name="Fat"/>
+<nutrient amount="73.7" name="Water"/>
+<nutrient amount="1.9" name="Ash"/>
+<nutrient amount="468.0" name="Sodium"/>
+<nutrient amount="1.95" name="Saturated"/>
+<nutrient amount="2.93" name="Monounsaturated"/>
+<nutrient amount="3.58" name="Polyunsaturated"/>
+<nutrient amount="26.0" name="Cholesterol"/>
+</food>

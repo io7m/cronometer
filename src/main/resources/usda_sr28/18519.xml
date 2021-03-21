@@ -1,0 +1,24 @@
+<food fcf="9.0" pcf="4.0" uid="18519" name="ARCHWAY Home Style Cookies, Black Walnut Ice Box" ccf="4.0">
+<measure amount="1.0" grams="24.0" name="serving"/>
+<nutrient amount="497.0" name="Energy"/>
+<nutrient amount="5.25" name="Protein"/>
+<nutrient amount="62.0" name="Carbs"/>
+<nutrient amount="1.2" name="Fiber"/>
+<nutrient amount="27.9" name="Sugars"/>
+<nutrient amount="25.66" name="Fat"/>
+<nutrient amount="5.8" name="Water"/>
+<nutrient amount="1.29" name="Ash"/>
+<nutrient amount="21.0" name="Calcium"/>
+<nutrient amount="2.76" name="Iron"/>
+<nutrient amount="82.0" name="Potassium"/>
+<nutrient amount="319.0" name="Sodium"/>
+<nutrient amount="62.0" name="Vitamin A"/>
+<nutrient amount="73.0" name="Folate"/>
+<nutrient amount="0.29" name="B1 (Thiamine)"/>
+<nutrient amount="0.23" name="B2 (Riboflavin)"/>
+<nutrient amount="2.27" name="B3 (Niacin)"/>
+<nutrient amount="6.0" name="Saturated"/>
+<nutrient amount="9.37" name="Monounsaturated"/>
+<nutrient amount="2.5" name="Polyunsaturated"/>
+<nutrient amount="40.0" name="Cholesterol"/>
+</food>

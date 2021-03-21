@@ -1,0 +1,13 @@
+<food fcf="9.0" pcf="4.0" uid="18604" name="CAMPIONE D'ITALIA FOODS, CAMPIONE Garlic Bread, frozen" ccf="4.0">
+<measure amount="1.0" grams="28.0" name="serving"/>
+<nutrient amount="362.0" name="Energy"/>
+<nutrient amount="8.5" name="Protein"/>
+<nutrient amount="44.3" name="Carbs"/>
+<nutrient amount="4.7" name="Fiber"/>
+<nutrient amount="16.8" name="Fat"/>
+<nutrient amount="28.6" name="Water"/>
+<nutrient amount="1.8" name="Ash"/>
+<nutrient amount="1.08" name="Iron"/>
+<nutrient amount="550.0" name="Sodium"/>
+<nutrient amount="2.7" name="Saturated"/>
+</food>

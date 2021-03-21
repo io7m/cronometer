@@ -1,0 +1,18 @@
+<food fcf="9.0" pcf="4.0" uid="22538" name="LEAN POCKETS Glazed Chicken Supreme Stuffed Sandwiches, frozen" ccf="4.0">
+<measure amount="1.0" grams="255.0" name="package yields"/>
+<measure amount="1.0" grams="128.0" name="serving"/>
+<nutrient amount="182.0" name="Energy"/>
+<nutrient amount="7.7" name="Protein"/>
+<nutrient amount="26.7" name="Carbs"/>
+<nutrient amount="4.9" name="Fat"/>
+<nutrient amount="58.9" name="Water"/>
+<nutrient amount="1.8" name="Ash"/>
+<nutrient amount="95.0" name="Calcium"/>
+<nutrient amount="439.0" name="Sodium"/>
+<nutrient amount="600.0" name="Vitamin A"/>
+<nutrient amount="360.0" name="Beta-carotene"/>
+<nutrient amount="1.5" name="Saturated"/>
+<nutrient amount="1.94" name="Monounsaturated"/>
+<nutrient amount="0.744" name="Polyunsaturated"/>
+<nutrient amount="18.0" name="Cholesterol"/>
+</food>

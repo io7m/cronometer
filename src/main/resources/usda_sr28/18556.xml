@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18556" name="ARCHWAY Home Style Cookies, Fat Free Oatmeal Raspberry" ccf="4.0">
+<measure amount="1.0" grams="31.0" name="serving"/>
+<nutrient amount="351.0" name="Energy"/>
+<nutrient amount="4.63" name="Protein"/>
+<nutrient amount="80.42" name="Carbs"/>
+<nutrient amount="3.0" name="Fiber"/>
+<nutrient amount="46.13" name="Sugars"/>
+<nutrient amount="1.6" name="Fat"/>
+<nutrient amount="10.7" name="Water"/>
+<nutrient amount="2.66" name="Ash"/>
+<nutrient amount="38.0" name="Calcium"/>
+<nutrient amount="3.21" name="Iron"/>
+<nutrient amount="287.0" name="Potassium"/>
+<nutrient amount="537.0" name="Sodium"/>
+<nutrient amount="2.0" name="Vitamin A"/>
+<nutrient amount="47.0" name="Folate"/>
+<nutrient amount="0.27" name="B1 (Thiamine)"/>
+<nutrient amount="0.14" name="B2 (Riboflavin)"/>
+<nutrient amount="1.64" name="B3 (Niacin)"/>
+<nutrient amount="0.34" name="Saturated"/>
+<nutrient amount="0.56" name="Monounsaturated"/>
+<nutrient amount="0.68" name="Polyunsaturated"/>
+</food>

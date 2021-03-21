@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="22575" name="BARBER FOODS Chicken Cordon Bleu, Filled with Cheese and Ham, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="340.0" name="package yields"/>
+<measure amount="1.0" grams="168.0" name="serving"/>
+<nutrient amount="205.0" name="Energy"/>
+<nutrient amount="15.2" name="Protein"/>
+<nutrient amount="8.7" name="Carbs"/>
+<nutrient amount="12.2" name="Fat"/>
+<nutrient amount="62.1" name="Water"/>
+<nutrient amount="1.8" name="Ash"/>
+<nutrient amount="86.0" name="Calcium"/>
+<nutrient amount="449.0" name="Sodium"/>
+<nutrient amount="128.0" name="Vitamin A"/>
+<nutrient amount="3.39" name="Saturated"/>
+<nutrient amount="4.91" name="Monounsaturated"/>
+<nutrient amount="1.93" name="Polyunsaturated"/>
+<nutrient amount="48.0" name="Cholesterol"/>
+</food>

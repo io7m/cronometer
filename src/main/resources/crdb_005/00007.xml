@@ -1,0 +1,9 @@
+<food  name="Yu Choi" >
+  <nutrient  name="Energy" amount="23.529411764705884" />
+  <nutrient  name="Protein" amount="2.3529411764705883" />
+  <nutrient  name="Carbs" amount="3.5294117647058822" />
+  <nutrient  name="Calcium" amount="235.29411764705884" />
+  <nutrient  name="Iron" amount="1.6941176470588235" />
+  <nutrient  name="Vitamin A" amount="10000.0" />
+  <nutrient  name="Vitamin C" amount="127.05882352941177" />
+</food>

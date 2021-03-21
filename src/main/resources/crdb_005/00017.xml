@@ -1,0 +1,8 @@
+<food name="Baking Powder, Sodium-Free, Hain">
+<comments>
+</comments>
+<measure amount="1.0" grams="14.4" name="Tablespoon"/>
+<measure amount="1.0" grams="0.48" name="tsp"/>
+<nutrient amount="6666.666666666667" name="Calcium"/>
+<nutrient amount="11666.666666666666" name="Potassium"/>
+</food>

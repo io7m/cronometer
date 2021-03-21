@@ -1,0 +1,30 @@
+<food fcf="9.0" pcf="4.0" uid="18650" name="NABISCO, NABISCO SNACKWELL'S Caramel Delights Cookies" ccf="4.0">
+<measure amount="1.0" grams="18.0" name="serving"/>
+<nutrient amount="383.0" name="Energy"/>
+<nutrient amount="4.5" name="Protein"/>
+<nutrient amount="69.85" name="Carbs"/>
+<nutrient amount="1.7" name="Fiber"/>
+<nutrient amount="46.21" name="Sugars"/>
+<nutrient amount="11.23" name="Fat"/>
+<nutrient amount="13.35" name="Water"/>
+<nutrient amount="1.06" name="Ash"/>
+<nutrient amount="47.0" name="Calcium"/>
+<nutrient amount="0.172" name="Copper"/>
+<nutrient amount="0.91" name="Iron"/>
+<nutrient amount="26.0" name="Magnesium"/>
+<nutrient amount="93.0" name="Phosphorus"/>
+<nutrient amount="122.0" name="Potassium"/>
+<nutrient amount="184.0" name="Sodium"/>
+<nutrient amount="0.53" name="Zinc"/>
+<nutrient amount="3.0" name="Vitamin A"/>
+<nutrient amount="53.0" name="Folate"/>
+<nutrient amount="0.028" name="B1 (Thiamine)"/>
+<nutrient amount="0.099" name="B2 (Riboflavin)"/>
+<nutrient amount="0.474" name="B3 (Niacin)"/>
+<nutrient amount="0.026" name="B6 (Pyridoxine)"/>
+<nutrient amount="0.12" name="B12 (Cyanocobalamin)"/>
+<nutrient amount="0.1" name="Vitamin C"/>
+<nutrient amount="2.734" name="Saturated"/>
+<nutrient amount="3.44" name="Monounsaturated"/>
+<nutrient amount="0.585" name="Polyunsaturated"/>
+</food>

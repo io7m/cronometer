@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18502" name="LENDER'S Big'N Crusty Blueberry Bagel" ccf="4.0">
+<measure amount="1.0" grams="85.0" name="serving"/>
+<nutrient amount="252.0" name="Energy"/>
+<nutrient amount="9.26" name="Protein"/>
+<nutrient amount="53.96" name="Carbs"/>
+<nutrient amount="2.0" name="Fiber"/>
+<nutrient amount="11.23" name="Sugars"/>
+<nutrient amount="0.9" name="Fat"/>
+<nutrient amount="34.35" name="Water"/>
+<nutrient amount="1.51" name="Ash"/>
+<nutrient amount="13.0" name="Calcium"/>
+<nutrient amount="3.7" name="Iron"/>
+<nutrient amount="86.0" name="Potassium"/>
+<nutrient amount="481.0" name="Sodium"/>
+<nutrient amount="70.0" name="Folate"/>
+<nutrient amount="0.543" name="B1 (Thiamine)"/>
+<nutrient amount="0.31" name="B2 (Riboflavin)"/>
+<nutrient amount="4.0" name="B3 (Niacin)"/>
+<nutrient amount="0.056" name="B6 (Pyridoxine)"/>
+<nutrient amount="0.2" name="Saturated"/>
+<nutrient amount="0.1" name="Monounsaturated"/>
+<nutrient amount="0.5" name="Polyunsaturated"/>
+</food>

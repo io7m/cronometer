@@ -1,0 +1,24 @@
+<food fcf="9.0" pcf="4.0" uid="14014" name="Alcoholic beverage, martini, prepared-from-recipe" ccf="4.0">
+<measure amount="1.0" grams="28.2" name="fl oz"/>
+<nutrient amount="243.0" name="Energy"/>
+<nutrient amount="0.04" name="Protein"/>
+<nutrient amount="2.04" name="Carbs"/>
+<nutrient amount="0.19" name="Sugars"/>
+<nutrient amount="33.9" name="Alcohol"/>
+<nutrient amount="63.93" name="Water"/>
+<nutrient amount="0.05" name="Ash"/>
+<nutrient amount="1.0" name="Calcium"/>
+<nutrient amount="0.011" name="Copper"/>
+<nutrient amount="0.04" name="Iron"/>
+<nutrient amount="2.0" name="Magnesium"/>
+<nutrient amount="0.021" name="Manganese"/>
+<nutrient amount="2.0" name="Phosphorus"/>
+<nutrient amount="16.0" name="Potassium"/>
+<nutrient amount="0.1" name="Selenium"/>
+<nutrient amount="3.0" name="Sodium"/>
+<nutrient amount="0.01" name="Zinc"/>
+<nutrient amount="0.0030" name="B1 (Thiamine)"/>
+<nutrient amount="0.0030" name="B2 (Riboflavin)"/>
+<nutrient amount="0.037" name="B3 (Niacin)"/>
+<nutrient amount="0.0060" name="B5 (Pantothenic Acid)"/>
+</food>

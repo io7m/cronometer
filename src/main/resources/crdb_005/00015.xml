@@ -1,0 +1,50 @@
+<food name="Harvest Hodgepodge Mixed Frozen Vegetables Trader Joe's">
+<comments>
+</comments>
+<nutrient amount="34.48275862068966" name="Energy"/>
+<nutrient amount="2.2988505747126435" name="Protein"/>
+<nutrient amount="5.747126436781609" name="Carbs"/>
+<nutrient amount="2.2988505747126435" name="Fiber"/>
+<nutrient amount="0.08811305070656691" name="ALA"/>
+<nutrient amount="0.14048212801330007" name="ASP"/>
+<nutrient amount="0.08146300914380716" name="ARG"/>
+<nutrient amount="0.014131338320864505" name="CYS"/>
+<nutrient amount="0.2593516209476309" name="GLU"/>
+<nutrient amount="0.057356608478802994" name="GLY"/>
+<nutrient amount="0.03158769742310889" name="HIS"/>
+<nutrient amount="0.06650041562759768" name="ILE"/>
+<nutrient amount="0.09975062344139651" name="LEU"/>
+<nutrient amount="0.08229426433915213" name="LYS"/>
+<nutrient amount="0.0199501246882793" name="MET"/>
+<nutrient amount="0.05985037406483791" name="PHE"/>
+<nutrient amount="0.07231920199501246" name="PRO"/>
+<nutrient amount="0.06317539484621779" name="SER"/>
+<nutrient amount="0.05901911886949293" name="THR"/>
+<nutrient amount="0.01745635910224439" name="TRP"/>
+<nutrient amount="0.049044056525353284" name="TYR"/>
+<nutrient amount="0.09393183707398171" name="VAL"/>
+<nutrient amount="0.1149425287356322" name="Copper"/>
+<nutrient amount="0.41379310344827586" name="Iron"/>
+<nutrient amount="12.758620689655173" name="Magnesium"/>
+<nutrient amount="0.1149425287356322" name="Manganese"/>
+<nutrient amount="44.94252873563219" name="Phosphorus"/>
+<nutrient amount="219.54022988505747" name="Potassium"/>
+<nutrient amount="0.9195402298850576" name="Selenium"/>
+<nutrient amount="22.988505747126435" name="Sodium"/>
+<nutrient amount="0.3448275862068965" name="Zinc"/>
+<nutrient amount="1149.4252873563219" name="Vitamin A"/>
+<nutrient amount="522.9885057471264" name="Alpha-carotene"/>
+<nutrient amount="1211.4942528735633" name="Beta-carotene"/>
+<nutrient amount="96.55172413793103" name="Beta-cryptoxanthin"/>
+<nutrient amount="0.3448275862068965" name="Lycopene"/>
+<nutrient amount="429.88505747126436" name="Lutein+Zeaxanthin"/>
+<nutrient amount="35.632183908045974" name="Folate"/>
+<nutrient amount="0.1149425287356322" name="B1 (Thiamine)"/>
+<nutrient amount="0.1149425287356322" name="B2 (Riboflavin)"/>
+<nutrient amount="0.9195402298850576" name="B3 (Niacin)"/>
+<nutrient amount="0.2298850574712644" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.1149425287356322" name="B6 (Pyridoxine)"/>
+<nutrient amount="10.344827586206897" name="Vitamin C"/>
+<nutrient amount="0.5747126436781609" name="Vitamin E"/>
+<nutrient amount="27.126436781609197" name="Vitamin K"/>
+</food>

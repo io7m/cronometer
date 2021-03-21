@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18515" name="ARCHWAY Home Style Cookies, Sugar Free Shortbread" ccf="4.0">
+<measure amount="1.0" grams="24.0" name="serving"/>
+<nutrient amount="445.0" name="Energy"/>
+<nutrient amount="4.66" name="Protein"/>
+<nutrient amount="65.94" name="Carbs"/>
+<nutrient amount="0.9" name="Fiber"/>
+<nutrient amount="1.41" name="Sugars"/>
+<nutrient amount="22.31" name="Fat"/>
+<nutrient amount="6.0" name="Water"/>
+<nutrient amount="1.09" name="Ash"/>
+<nutrient amount="9.0" name="Calcium"/>
+<nutrient amount="1.8" name="Iron"/>
+<nutrient amount="59.0" name="Potassium"/>
+<nutrient amount="196.0" name="Sodium"/>
+<nutrient amount="3.0" name="Vitamin A"/>
+<nutrient amount="64.0" name="Folate"/>
+<nutrient amount="0.26" name="B1 (Thiamine)"/>
+<nutrient amount="0.19" name="B2 (Riboflavin)"/>
+<nutrient amount="2.11" name="B3 (Niacin)"/>
+<nutrient amount="5.26" name="Saturated"/>
+<nutrient amount="8.37" name="Monounsaturated"/>
+<nutrient amount="1.15" name="Polyunsaturated"/>
+</food>

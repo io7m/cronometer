@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="18611" name="CONTINENTAL MILLS, KRUSTEAZ Buttermilk Mini Pancakes, frozen, ready to microwave" ccf="4.0">
+<measure amount="1.0" grams="54.0" name="serving"/>
+<nutrient amount="215.0" name="Energy"/>
+<nutrient amount="6.7" name="Protein"/>
+<nutrient amount="40.2" name="Carbs"/>
+<nutrient amount="3.0" name="Fat"/>
+<nutrient amount="48.3" name="Water"/>
+<nutrient amount="1.8" name="Ash"/>
+<nutrient amount="2.71" name="Iron"/>
+<nutrient amount="537.0" name="Sodium"/>
+<nutrient amount="5560.0" name="Vitamin A"/>
+<nutrient amount="0.434" name="Saturated"/>
+<nutrient amount="1.241" name="Monounsaturated"/>
+<nutrient amount="0.495" name="Polyunsaturated"/>
+<nutrient amount="0.042" name="Omega-3"/>
+<nutrient amount="0.451" name="Omega-6"/>
+</food>

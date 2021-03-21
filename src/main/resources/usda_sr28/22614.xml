@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="22614" name="STOUFFER'S Escalloped Chicken &amp; Noodles, frozen entree" ccf="4.0">
+<measure amount="1.0" grams="283.0" name="package yields"/>
+<measure amount="1.0" grams="283.0" name="serving"/>
+<nutrient amount="148.0" name="Energy"/>
+<nutrient amount="6.0" name="Protein"/>
+<nutrient amount="11.1" name="Carbs"/>
+<nutrient amount="8.9" name="Fat"/>
+<nutrient amount="72.7" name="Water"/>
+<nutrient amount="1.4" name="Ash"/>
+<nutrient amount="41.0" name="Calcium"/>
+<nutrient amount="0.4" name="Iron"/>
+<nutrient amount="428.0" name="Sodium"/>
+<nutrient amount="2.32" name="Saturated"/>
+<nutrient amount="2.71" name="Monounsaturated"/>
+<nutrient amount="4.79" name="Polyunsaturated"/>
+<nutrient amount="27.0" name="Cholesterol"/>
+</food>

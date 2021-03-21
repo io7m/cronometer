@@ -1,0 +1,24 @@
+<food fcf="9.0" pcf="4.0" uid="18536" name="ARCHWAY Home Style Cookies, Mud Pie" ccf="4.0">
+<measure amount="1.0" grams="25.0" name="serving"/>
+<nutrient amount="429.0" name="Energy"/>
+<nutrient amount="5.3" name="Protein"/>
+<nutrient amount="59.69" name="Carbs"/>
+<nutrient amount="2.8" name="Fiber"/>
+<nutrient amount="30.25" name="Sugars"/>
+<nutrient amount="19.73" name="Fat"/>
+<nutrient amount="13.18" name="Water"/>
+<nutrient amount="2.1" name="Ash"/>
+<nutrient amount="29.0" name="Calcium"/>
+<nutrient amount="2.87" name="Iron"/>
+<nutrient amount="266.0" name="Potassium"/>
+<nutrient amount="413.0" name="Sodium"/>
+<nutrient amount="32.0" name="Vitamin A"/>
+<nutrient amount="49.0" name="Folate"/>
+<nutrient amount="0.21" name="B1 (Thiamine)"/>
+<nutrient amount="0.19" name="B2 (Riboflavin)"/>
+<nutrient amount="1.8" name="B3 (Niacin)"/>
+<nutrient amount="8.6" name="Saturated"/>
+<nutrient amount="5.93" name="Monounsaturated"/>
+<nutrient amount="0.83" name="Polyunsaturated"/>
+<nutrient amount="21.0" name="Cholesterol"/>
+</food>

@@ -1,0 +1,21 @@
+<food fcf="9.0" pcf="4.0" uid="22520" name="CHEF BOYARDEE TEENAGE MUTANT NINJA TURTLES Pasta Shapes with Mini Meatballs in Tomato Sauce, canned entree" ccf="4.0">
+<measure amount="1.0" grams="212.0" name="package yields"/>
+<measure amount="1.0" grams="212.0" name="serving"/>
+<nutrient amount="107.0" name="Energy"/>
+<nutrient amount="3.85" name="Protein"/>
+<nutrient amount="15.83" name="Carbs"/>
+<nutrient amount="1.3" name="Fiber"/>
+<nutrient amount="3.38" name="Sugars"/>
+<nutrient amount="3.19" name="Fat"/>
+<nutrient amount="75.88" name="Water"/>
+<nutrient amount="1.25" name="Ash"/>
+<nutrient amount="10.0" name="Calcium"/>
+<nutrient amount="0.44" name="Iron"/>
+<nutrient amount="396.0" name="Sodium"/>
+<nutrient amount="131.0" name="Vitamin A"/>
+<nutrient amount="0.2" name="Vitamin C"/>
+<nutrient amount="1.41" name="Saturated"/>
+<nutrient amount="1.3" name="Monounsaturated"/>
+<nutrient amount="0.12" name="Polyunsaturated"/>
+<nutrient amount="10.0" name="Cholesterol"/>
+</food>

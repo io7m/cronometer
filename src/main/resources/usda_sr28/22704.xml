@@ -1,0 +1,19 @@
+<food fcf="9.0" pcf="4.0" uid="22704" name="EL RIO Chili Con Carne, No Beans, canned entree" ccf="4.0">
+<measure amount="1.0" grams="425.0" name="package yields"/>
+<measure amount="1.0" grams="261.0" name="serving"/>
+<nutrient amount="117.0" name="Energy"/>
+<nutrient amount="5.8" name="Protein"/>
+<nutrient amount="6.2" name="Carbs"/>
+<nutrient amount="1.4" name="Fiber"/>
+<nutrient amount="7.7" name="Fat"/>
+<nutrient amount="78.9" name="Water"/>
+<nutrient amount="1.4" name="Ash"/>
+<nutrient amount="1.69" name="Iron"/>
+<nutrient amount="311.0" name="Sodium"/>
+<nutrient amount="183.0" name="Vitamin A"/>
+<nutrient amount="110.0" name="Beta-carotene"/>
+<nutrient amount="2.86" name="Saturated"/>
+<nutrient amount="3.37" name="Monounsaturated"/>
+<nutrient amount="0.3" name="Polyunsaturated"/>
+<nutrient amount="19.0" name="Cholesterol"/>
+</food>

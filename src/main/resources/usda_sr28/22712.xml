@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="22712" name="TYSON Roasted Chicken with Garlic Sauce, Pasta and Vegetable Medley, frozen entree, Product Code 5128-921" ccf="4.0">
+<measure amount="1.0" grams="255.0" name="package yields"/>
+<measure amount="1.0" grams="255.0" name="serving"/>
+<nutrient amount="84.0" name="Energy"/>
+<nutrient amount="6.64" name="Protein"/>
+<nutrient amount="8.44" name="Carbs"/>
+<nutrient amount="1.4" name="Fiber"/>
+<nutrient amount="2.63" name="Fat"/>
+<nutrient amount="81.36" name="Water"/>
+<nutrient amount="0.93" name="Ash"/>
+<nutrient amount="0.61" name="Iron"/>
+<nutrient amount="183.0" name="Sodium"/>
+<nutrient amount="0.51" name="Saturated"/>
+<nutrient amount="0.92" name="Monounsaturated"/>
+<nutrient amount="0.84" name="Polyunsaturated"/>
+<nutrient amount="11.0" name="Cholesterol"/>
+</food>

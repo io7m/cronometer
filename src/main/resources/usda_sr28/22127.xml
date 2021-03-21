@@ -1,0 +1,31 @@
+<food fcf="9.0" pcf="4.0" uid="22127" name="WORTHINGTON FOODS, NATURAL TOUCH, GARDEN VEGE PATTIES, frozen" ccf="4.0">
+<measure amount="1.0" grams="252.0" name="cup"/>
+<measure amount="1.0" grams="67.0" name="patty"/>
+<nutrient amount="178.0" name="Energy"/>
+<nutrient amount="16.73" name="Protein"/>
+<nutrient amount="15.23" name="Carbs"/>
+<nutrient amount="6.0" name="Fiber"/>
+<nutrient amount="1.12" name="Sugars"/>
+<nutrient amount="5.62" name="Fat"/>
+<nutrient amount="59.87" name="Water"/>
+<nutrient amount="2.56" name="Ash"/>
+<nutrient amount="72.0" name="Calcium"/>
+<nutrient amount="0.64" name="Copper"/>
+<nutrient amount="1.81" name="Iron"/>
+<nutrient amount="44.0" name="Magnesium"/>
+<nutrient amount="0.502" name="Manganese"/>
+<nutrient amount="185.0" name="Phosphorus"/>
+<nutrient amount="268.0" name="Potassium"/>
+<nutrient amount="570.0" name="Sodium"/>
+<nutrient amount="0.86" name="Zinc"/>
+<nutrient amount="1143.0" name="Vitamin A"/>
+<nutrient amount="9.65" name="B1 (Thiamine)"/>
+<nutrient amount="0.15" name="B2 (Riboflavin)"/>
+<nutrient amount="1.794" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.804" name="Saturated"/>
+<nutrient amount="1.59" name="Monounsaturated"/>
+<nutrient amount="3.226" name="Polyunsaturated"/>
+<nutrient amount="0.056" name="Omega-3"/>
+<nutrient amount="3.17" name="Omega-6"/>
+<nutrient amount="1.0" name="Cholesterol"/>
+</food>

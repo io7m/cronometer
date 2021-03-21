@@ -1,0 +1,38 @@
+<food fcf="9.0" pcf="4.0" uid="11942" name="Pickles, cucumber, fresh, (bread and butter pickles)" ccf="4.0">
+<measure amount="1.0" grams="170.0" name="cup"/>
+<measure amount="1.0" grams="8.0" name="slice"/>
+<nutrient amount="81.0" name="Energy"/>
+<nutrient amount="0.9" name="Protein"/>
+<nutrient amount="18.79" name="Carbs"/>
+<nutrient amount="1.5" name="Fiber"/>
+<nutrient amount="8.97" name="Sugars"/>
+<nutrient amount="0.2" name="Fat"/>
+<nutrient amount="78.7" name="Water"/>
+<nutrient amount="1.41" name="Ash"/>
+<nutrient amount="32.0" name="Calcium"/>
+<nutrient amount="0.062" name="Copper"/>
+<nutrient amount="0.4" name="Iron"/>
+<nutrient amount="2.0" name="Magnesium"/>
+<nutrient amount="0.0090" name="Manganese"/>
+<nutrient amount="27.0" name="Phosphorus"/>
+<nutrient amount="200.0" name="Potassium"/>
+<nutrient amount="673.0" name="Sodium"/>
+<nutrient amount="0.04" name="Zinc"/>
+<nutrient amount="140.0" name="Vitamin A"/>
+<nutrient amount="15.0" name="Alpha-carotene"/>
+<nutrient amount="60.0" name="Beta-carotene"/>
+<nutrient amount="34.0" name="Beta-cryptoxanthin"/>
+<nutrient amount="104.0" name="Lutein+Zeaxanthin"/>
+<nutrient amount="4.0" name="Folate"/>
+<nutrient amount="0.03" name="B2 (Riboflavin)"/>
+<nutrient amount="0.074" name="B5 (Pantothenic Acid)"/>
+<nutrient amount="0.01" name="B6 (Pyridoxine)"/>
+<nutrient amount="9.0" name="Vitamin C"/>
+<nutrient amount="0.16" name="Vitamin E"/>
+<nutrient amount="46.9" name="Vitamin K"/>
+<nutrient amount="0.052" name="Saturated"/>
+<nutrient amount="0.0030" name="Monounsaturated"/>
+<nutrient amount="0.081" name="Polyunsaturated"/>
+<nutrient amount="0.046" name="Omega-3"/>
+<nutrient amount="0.035" name="Omega-6"/>
+</food>

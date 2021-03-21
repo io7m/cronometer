@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="18561" name="ARCHWAY Home Style Cookies, Gourmet Ol'Fashion Peanut Butter" ccf="4.0">
+<measure amount="1.0" grams="25.0" name="serving"/>
+<nutrient amount="469.0" name="Energy"/>
+<nutrient amount="9.09" name="Protein"/>
+<nutrient amount="57.25" name="Carbs"/>
+<nutrient amount="3.0" name="Fiber"/>
+<nutrient amount="32.49" name="Sugars"/>
+<nutrient amount="23.64" name="Fat"/>
+<nutrient amount="7.9" name="Water"/>
+<nutrient amount="2.12" name="Ash"/>
+<nutrient amount="24.0" name="Calcium"/>
+<nutrient amount="2.67" name="Iron"/>
+<nutrient amount="207.0" name="Potassium"/>
+<nutrient amount="473.0" name="Sodium"/>
+<nutrient amount="59.0" name="Vitamin A"/>
+<nutrient amount="0.23" name="B1 (Thiamine)"/>
+<nutrient amount="0.18" name="B2 (Riboflavin)"/>
+<nutrient amount="4.61" name="B3 (Niacin)"/>
+<nutrient amount="5.19" name="Saturated"/>
+<nutrient amount="10.11" name="Monounsaturated"/>
+<nutrient amount="4.52" name="Polyunsaturated"/>
+<nutrient amount="36.0" name="Cholesterol"/>
+</food>

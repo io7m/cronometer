@@ -1,0 +1,23 @@
+<food fcf="9.0" pcf="4.0" uid="08397" name="Cereals ready-to-eat, GENERAL MILLS, Frosted Corn Flakes" ccf="4.0">
+<nutrient amount="392.0" name="Energy"/>
+<nutrient amount="4.0" name="Protein"/>
+<nutrient amount="92.0" name="Carbs"/>
+<nutrient amount="44.0" name="Sugars"/>
+<nutrient amount="0.4" name="Fat"/>
+<nutrient amount="1.84" name="Water"/>
+<nutrient amount="1.78" name="Ash"/>
+<nutrient amount="12.9" name="Iron"/>
+<nutrient amount="55.0" name="Potassium"/>
+<nutrient amount="631.0" name="Sodium"/>
+<nutrient amount="3571.0" name="Vitamin A"/>
+<nutrient amount="1072.0" name="Retinol"/>
+<nutrient amount="286.0" name="Folate"/>
+<nutrient amount="1.07" name="B1 (Thiamine)"/>
+<nutrient amount="1.21" name="B2 (Riboflavin)"/>
+<nutrient amount="14.3" name="B3 (Niacin)"/>
+<nutrient amount="1.43" name="B6 (Pyridoxine)"/>
+<nutrient amount="4.3" name="B12 (Cyanocobalamin)"/>
+<nutrient amount="43.0" name="Vitamin C"/>
+<nutrient amount="143.0" name="Vitamin D"/>
+<nutrient amount="0.2" name="Saturated"/>
+</food>

@@ -1,0 +1,17 @@
+<food fcf="9.0" pcf="4.0" uid="22688" name="TYSON Chicken Mesquite with Barbecue Sauce, Corn Medley and Potatoes au Gratin, frozen meal, Product Code 5121-921" ccf="4.0">
+<measure amount="1.0" grams="255.0" name="package yields"/>
+<measure amount="1.0" grams="255.0" name="serving"/>
+<nutrient amount="126.0" name="Energy"/>
+<nutrient amount="6.97" name="Protein"/>
+<nutrient amount="17.63" name="Carbs"/>
+<nutrient amount="1.7" name="Fiber"/>
+<nutrient amount="3.04" name="Fat"/>
+<nutrient amount="70.92" name="Water"/>
+<nutrient amount="1.46" name="Ash"/>
+<nutrient amount="311.0" name="Sodium"/>
+<nutrient amount="186.0" name="Vitamin A"/>
+<nutrient amount="1.02" name="Saturated"/>
+<nutrient amount="1.07" name="Monounsaturated"/>
+<nutrient amount="0.19" name="Polyunsaturated"/>
+<nutrient amount="10.0" name="Cholesterol"/>
+</food>

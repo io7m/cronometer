@@ -1,0 +1,16 @@
+<food fcf="9.0" pcf="4.0" uid="22613" name="LAS CAMPANAS Beef &amp; Bean Burrito, frozen" ccf="4.0">
+<measure amount="1.0" grams="114.0" name="serving"/>
+<nutrient amount="260.0" name="Energy"/>
+<nutrient amount="7.6" name="Protein"/>
+<nutrient amount="33.5" name="Carbs"/>
+<nutrient amount="0.7" name="Fiber"/>
+<nutrient amount="10.6" name="Fat"/>
+<nutrient amount="46.4" name="Water"/>
+<nutrient amount="1.9" name="Ash"/>
+<nutrient amount="2.73" name="Iron"/>
+<nutrient amount="508.0" name="Sodium"/>
+<nutrient amount="3.67" name="Saturated"/>
+<nutrient amount="4.84" name="Monounsaturated"/>
+<nutrient amount="0.69" name="Polyunsaturated"/>
+<nutrient amount="11.0" name="Cholesterol"/>
+</food>

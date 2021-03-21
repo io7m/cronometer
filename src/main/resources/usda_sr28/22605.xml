@@ -1,0 +1,21 @@
+<food fcf="9.0" pcf="4.0" uid="22605" name="BANQUET Veal Parmigiana Meal with Tomato Sauce, Mashed Potatoes and Peas in Seasoned Sauce, frozen meal" ccf="4.0">
+<measure amount="1.0" grams="255.0" name="package yields"/>
+<measure amount="1.0" grams="255.0" name="serving"/>
+<nutrient amount="142.0" name="Energy"/>
+<nutrient amount="4.95" name="Protein"/>
+<nutrient amount="13.66" name="Carbs"/>
+<nutrient amount="2.6" name="Fiber"/>
+<nutrient amount="5.9" name="Sugars"/>
+<nutrient amount="7.47" name="Fat"/>
+<nutrient amount="72.51" name="Water"/>
+<nutrient amount="1.42" name="Ash"/>
+<nutrient amount="26.0" name="Calcium"/>
+<nutrient amount="0.9" name="Iron"/>
+<nutrient amount="378.0" name="Sodium"/>
+<nutrient amount="99.0" name="Vitamin A"/>
+<nutrient amount="10.9" name="Vitamin C"/>
+<nutrient amount="2.43" name="Saturated"/>
+<nutrient amount="3.67" name="Monounsaturated"/>
+<nutrient amount="1.36" name="Polyunsaturated"/>
+<nutrient amount="10.0" name="Cholesterol"/>
+</food>
